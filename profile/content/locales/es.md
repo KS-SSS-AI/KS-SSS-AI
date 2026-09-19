@@ -2,7 +2,7 @@
 
 <p>
   <picture>
-    <img src="../../assets/locales/ko/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — 자율 아키텍처 및 풀스택 엔지니어링" width="78%" />
+    <img src="../../assets/locales/es/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Arquitecturas autónomas e ingeniería full-stack" width="78%" />
   </picture>
   <picture>
     <img src="../../assets/identity/avatar.gif" alt="KS-SSS-AI Animated Monogram" width="20%" />
@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  [🇺🇸 English](../../../README.md) · <strong>🇰🇷 한국어</strong> · [🇨🇳 中文](./zh-CN.md) · [🇪🇸 Español](./es.md) · [🇮🇳 हिन्दी](./hi.md)<br />
+  [🇺🇸 English](../../../README.md) · [🇰🇷 한국어](./ko.md) · [🇨🇳 中文](./zh-CN.md) · <strong>🇪🇸 Español</strong> · [🇮🇳 हिन्दी](./hi.md)<br />
   [🇸🇦 العربية](./ar.md) · [🇧🇷 Português](./pt-BR.md) · [🇷🇺 Русский](./ru.md) · [🇫🇷 Français](./fr.md) · [🇮🇩 Bahasa Indonesia](./id.md)
 </p>
 
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="../../assets/locales/ko/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
+  <img src="../../assets/locales/es/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
 </p>
 
 </div>
@@ -35,16 +35,16 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">💡 핵심 철학 및 엔지니어링 지향점</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">💡 Acerca de y filosofía de ingeniería</h2></summary>
 
-견고한 소프트웨어 시스템, 지능형 자율 파이프라인 및 직관적인 인터페이스를 설계합니다. Triple-S 핵심 가치를 지향합니다:
+Diseño y construyo sistemas de software resistentes, canalizaciones autónomas inteligentes e interfaces centradas en el usuario. Mi enfoque se centra en el núcleo Triple-S:
 
-- **⚡ Speed** — 군더더기 없는 최소 코드와 즉각적인 바이브 코딩으로 의도를 검증된 산출물로 신속히 변환합니다.
-- **🏛️ Scale** — 클린 디커플링 아키텍처, 무상태 서비스, 단일장애점(Zero-SPOF) 없는 분산 토폴로지를 구축합니다.
-- **🔒 Security** — 자격증명 격리, 무중단 쿼터 페일오버, 자동 보안 가드레일을 통해 신뢰성을 완벽 보장합니다.
+- **⚡ Speed** — Prototipado sin fricciones, paradigmas de código mínimo y bucles de agentes que convierten la intención en código verificado.
+- **🏛️ Scale** — Arquitecturas desacopladas limpias, servicios sin estado y topologías multinodo sin SPOF.
+- **🔒 Security** — Aislamiento de credenciales de confianza cero, enrutamiento de conmutación por error y medidas de seguridad automatizadas.
 
 <p align="center">
-  <sub>단단하게 만들고, 명확하게 유지하며, 불필요한 마찰을 자동화로 제거합니다.</sub>
+  <sub>Hazlo resistente. Mantenlo claro. Automatiza la fricción.</sub>
 </p>
 
 </details>
@@ -52,13 +52,13 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">🚀 핵심 역량 및 아키텍처</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">🚀 Capacidades y arquitecturas destacadas</h2></summary>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 자율 에이전트 오케스트레이션</h4>
-      <p><em>지속적인 에이전트 워크플로, 툴 호출 런타임 및 다중 계정 자격증명 자동 로테이션.</em></p>
+      <h4>🤖 Orquestación de agentes autónomos</h4>
+      <p><em>Flujos de trabajo de agentes de IA continuos, tiempo de ejecución de herramientas y rotación de tokens.</em></p>
       <ul>
         <li><strong>Quota Failover</strong>: Zero-downtime automatic rotation across multiple accounts upon rate limit (429) triggers.</li>
         <li><strong>Environment Isolation</strong>: Credential encapsulation via portable environment schemas and DPAPI-level guardrails.</li>
@@ -66,8 +66,8 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 풀스택 및 클라우드 시스템</h4>
-      <p><em>고처리량 백엔드 서비스와 결합된 반응형 고성능 인터페이스 구축.</em></p>
+      <h4>🌐 Sistemas resilientes full-stack y cloud</h4>
+      <p><em>Aplicaciones web modernas interactivas impulsadas por servicios backend de alta concurrencia.</em></p>
       <ul>
         <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
         <li><strong>Microservices &amp; APIs</strong>: High-concurrency asynchronous backends utilizing Node.js, Python, and Go.</li>
@@ -82,7 +82,7 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">⚡ 기술 스택 및 도구 매트릭스</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">⚡ Pila tecnológica y herramientas</h2></summary>
 
 <br />
 
@@ -97,7 +97,7 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">📊 아키텍처 대시보드 및 배포 지표</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">📊 Panel de arquitectura y métricas de entrega</h2></summary>
 
 <br />
 
@@ -117,8 +117,8 @@
 
 ---
 
-## 📬 협업 및 문의
+## 📬 Conectar y colaborar
 
-자율 소프트웨어 아키텍처, 시스템 설계 및 엔지니어링 협업 논의를 환영합니다.
+¿Interesado en discutir arquitecturas de software autónomas, colaboración de ingeniería o diseños innovadores?
 
 [GitHub Profile](https://github.com/KS-SSS-AI) · [Public Repositories](https://github.com/KS-SSS-AI?tab=repositories) · [Send an Email](mailto:youprodie@gmail.com)

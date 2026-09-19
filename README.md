@@ -2,7 +2,7 @@
 
 <p>
   <picture>
-    <img src="./profile/assets/identity/hero.svg" alt="KS-SSS-AI — Autonomous Architectures &amp; Full-Stack Engineering" width="78%" />
+    <img src="./profile/assets/locales/en/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Autonomous Architectures & Full-Stack Engineering" width="78%" />
   </picture>
   <picture>
     <img src="./profile/assets/identity/avatar.gif" alt="KS-SSS-AI Animated Monogram" width="20%" />
@@ -15,8 +15,8 @@
 </p>
 
 <p>
-  <strong>🇺🇸 English</strong> ·
-  <a href="./profile/content/locales/ko.md">🇰🇷 한국어</a>
+  <strong>🇺🇸 English</strong> · [🇰🇷 한국어](./profile/content/locales/ko.md) · [🇨🇳 中文](./profile/content/locales/zh-CN.md) · [🇪🇸 Español](./profile/content/locales/es.md) · [🇮🇳 हिन्दी](./profile/content/locales/hi.md)<br />
+  [🇸🇦 العربية](./profile/content/locales/ar.md) · [🇧🇷 Português](./profile/content/locales/pt-BR.md) · [🇷🇺 Русский](./profile/content/locales/ru.md) · [🇫🇷 Français](./profile/content/locales/fr.md) · [🇮🇩 Bahasa Indonesia](./profile/content/locales/id.md)
 </p>
 
 <p>
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile/assets/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
+  <img src="./profile/assets/locales/en/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
 </p>
 
 </div>
@@ -35,9 +35,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">💡 About &amp; Engineering Ethos</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">💡 About & Engineering Ethos</h2></summary>
 
-I design and build resilient software systems, intelligent autonomous pipelines, and user-centric interfaces. My approach centers on the **Triple-S Core**:
+I design and build resilient software systems, intelligent autonomous pipelines, and user-centric interfaces. My approach centers on the Triple-S Core:
 
 - **⚡ Speed** — Zero-friction prototyping, minimal code paradigms, and autonomous agent loops that turn intent into verified deliverables instantly.
 - **🏛️ Scale** — Clean decoupled architectures, stateless services, and zero-SPOF multi-node topologies built to expand gracefully.
@@ -52,7 +52,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">🚀 Featured Capabilities &amp; Architectures</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">🚀 Featured Capabilities & Architectures</h2></summary>
 
 <table>
   <tr>
@@ -66,7 +66,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Resilient Full-Stack &amp; Cloud Systems</h4>
+      <h4>🌐 Resilient Full-Stack & Cloud Systems</h4>
       <p><em>Modern interactive web applications powered by high-throughput backend services.</em></p>
       <ul>
         <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
@@ -82,7 +82,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">⚡ Technology Stack &amp; Tooling</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">⚡ Technology Stack & Tooling</h2></summary>
 
 <br />
 
@@ -97,7 +97,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">📊 Architecture Dashboard &amp; Delivery Metrics</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">📊 Architecture Dashboard & Delivery Metrics</h2></summary>
 
 <br />
 
@@ -117,7 +117,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 
 ---
 
-## 📬 Connect &amp; Collaborate
+## 📬 Connect & Collaborate
 
 Interested in discussing autonomous software architectures, engineering collaboration, or innovative system designs?
 

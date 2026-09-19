@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A12"/>
+      <stop offset="60%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#090D18"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.8" stroke-opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="1000" height="280" rx="16" fill="url(#bgGrad)"/>
+  <rect width="1000" height="280" rx="16" fill="url(#grid)"/>
+  <rect x="1" y="1" width="998" height="278" rx="15" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Ambient Light Orbs -->
+  <circle cx="150" cy="80" r="120" fill="#38BDF8" filter="blur(60px)" opacity="0.12"/>
+  <circle cx="850" cy="180" r="140" fill="#8B5CF6" filter="blur(70px)" opacity="0.12"/>
+
+  <!-- Top Status Ribbon -->
+  <g transform="translate(60, 48)">
+    <rect x="0" y="0" width="169.5" height="28" rx="14" fill="#0E1726" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.4"/>
+    <circle cx="16" cy="14" r="5" fill="#10B981"/>
+    <text x="32" y="19" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="0.5">SISTEMA ATIVO</text>
+  </g>
+
+  <!-- Brand Title -->
+  <text x="60" y="128" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="0.5">KS-SSS-AI</text>
+
+  <!-- Tagline -->
+  <text x="60" y="168" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="500">Speed · Scale · Security — Arquiteturas autônomas e engenharia full-stack</text>
+
+  <!-- Subtitle -->
+  <text x="60" y="202" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400">Criando interfaces resilientes, pipelines de alto rendimento e fluxos automatizados inteligentes.</text>
+
+  <!-- Decorative Divider Line -->
+  <rect x="60" y="235" width="880" height="2" fill="url(#lineGrad)"/>
+
+  <!-- Right Geometric Emblem -->
+  <g transform="translate(860, 110)">
+    <polygon points="0,-40 35,-20 35,20 0,40 -35,20 -35,-20" fill="none" stroke="#38BDF8" stroke-width="2" opacity="0.6"/>
+    <polygon points="0,-25 22,-12 22,12 0,25 -22,12 -22,-12" fill="none" stroke="#818CF8" stroke-width="1.5" opacity="0.8"/>
+    <circle cx="0" cy="0" r="8" fill="#C084FC"/>
+  </g>
+</svg>

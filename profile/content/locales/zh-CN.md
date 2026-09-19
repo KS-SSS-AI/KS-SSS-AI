@@ -2,7 +2,7 @@
 
 <p>
   <picture>
-    <img src="../../assets/locales/ko/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — 자율 아키텍처 및 풀스택 엔지니어링" width="78%" />
+    <img src="../../assets/locales/zh-CN/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — 自主架构与全栈工程" width="78%" />
   </picture>
   <picture>
     <img src="../../assets/identity/avatar.gif" alt="KS-SSS-AI Animated Monogram" width="20%" />
@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  [🇺🇸 English](../../../README.md) · <strong>🇰🇷 한국어</strong> · [🇨🇳 中文](./zh-CN.md) · [🇪🇸 Español](./es.md) · [🇮🇳 हिन्दी](./hi.md)<br />
+  [🇺🇸 English](../../../README.md) · [🇰🇷 한국어](./ko.md) · <strong>🇨🇳 中文</strong> · [🇪🇸 Español](./es.md) · [🇮🇳 हिन्दी](./hi.md)<br />
   [🇸🇦 العربية](./ar.md) · [🇧🇷 Português](./pt-BR.md) · [🇷🇺 Русский](./ru.md) · [🇫🇷 Français](./fr.md) · [🇮🇩 Bahasa Indonesia](./id.md)
 </p>
 
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="../../assets/locales/ko/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
+  <img src="../../assets/locales/zh-CN/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
 </p>
 
 </div>
@@ -35,16 +35,16 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">💡 핵심 철학 및 엔지니어링 지향점</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">💡 核心理念与工程哲学</h2></summary>
 
-견고한 소프트웨어 시스템, 지능형 자율 파이프라인 및 직관적인 인터페이스를 설계합니다. Triple-S 핵심 가치를 지향합니다:
+我设计并构建高韧性软件系统、智能自动化工作流与以用户为中心的高性能交互界面。以 Triple-S 为核心：
 
-- **⚡ Speed** — 군더더기 없는 최소 코드와 즉각적인 바이브 코딩으로 의도를 검증된 산출물로 신속히 변환합니다.
-- **🏛️ Scale** — 클린 디커플링 아키텍처, 무상태 서비스, 단일장애점(Zero-SPOF) 없는 분산 토폴로지를 구축합니다.
-- **🔒 Security** — 자격증명 격리, 무중단 쿼터 페일오버, 자동 보안 가드레일을 통해 신뢰성을 완벽 보장합니다.
+- **⚡ Speed** — 零阻力原型设计与最小代码原则，将工程意图即时转化为经过验证的交付物。
+- **🏛️ Scale** — 解耦架构、无状态服务与无单点故障（Zero-SPOF）的多节点分布式拓扑。
+- **🔒 Security** — 凭据隔离、持续配额故障转移路由以及保障极致可靠性的自动化安全护栏。
 
 <p align="center">
-  <sub>단단하게 만들고, 명확하게 유지하며, 불필요한 마찰을 자동화로 제거합니다.</sub>
+  <sub>保持韧性，保持清晰，以自动化消除一切繁杂。</sub>
 </p>
 
 </details>
@@ -52,13 +52,13 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">🚀 핵심 역량 및 아키텍처</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">🚀 核心能力与系统架构</h2></summary>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 자율 에이전트 오케스트레이션</h4>
-      <p><em>지속적인 에이전트 워크플로, 툴 호출 런타임 및 다중 계정 자격증명 자동 로테이션.</em></p>
+      <h4>🤖 自主智能体编排</h4>
+      <p><em>持续的 AI 代理工作流、工具调用运行时与多凭据令牌无缝轮换。</em></p>
       <ul>
         <li><strong>Quota Failover</strong>: Zero-downtime automatic rotation across multiple accounts upon rate limit (429) triggers.</li>
         <li><strong>Environment Isolation</strong>: Credential encapsulation via portable environment schemas and DPAPI-level guardrails.</li>
@@ -66,8 +66,8 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 풀스택 및 클라우드 시스템</h4>
-      <p><em>고처리량 백엔드 서비스와 결합된 반응형 고성능 인터페이스 구축.</em></p>
+      <h4>🌐 弹性全栈与云原生系统</h4>
+      <p><em>由高并发异步后端驱动的现代敏捷 Web 应用程序。</em></p>
       <ul>
         <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
         <li><strong>Microservices &amp; APIs</strong>: High-concurrency asynchronous backends utilizing Node.js, Python, and Go.</li>
@@ -82,7 +82,7 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">⚡ 기술 스택 및 도구 매트릭스</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">⚡ 技术栈与工具矩阵</h2></summary>
 
 <br />
 
@@ -97,7 +97,7 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">📊 아키텍처 대시보드 및 배포 지표</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">📊 架构仪表板与交付指标</h2></summary>
 
 <br />
 
@@ -117,8 +117,8 @@
 
 ---
 
-## 📬 협업 및 문의
+## 📬 联系与合作
 
-자율 소프트웨어 아키텍처, 시스템 설계 및 엔지니어링 협업 논의를 환영합니다.
+欢迎探讨自主软件架构、工程协同与创新系统设计。
 
 [GitHub Profile](https://github.com/KS-SSS-AI) · [Public Repositories](https://github.com/KS-SSS-AI?tab=repositories) · [Send an Email](mailto:youprodie@gmail.com)
