@@ -2,6 +2,7 @@
 
 <p>
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/id/identity/hero-compact.svg" />
     <img src="../../assets/locales/id/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Arsitektur otonom &amp; rekayasa full-stack" width="78%" />
   </picture>
   <picture>
@@ -20,10 +21,11 @@
 </p>
 
 <p>
-  <img src="../../assets/badges/badge-architecture.svg" alt="Architecture" />
-  <img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" />
-  <img src="../../assets/badges/badge-systems.svg" alt="Systems" />
-  <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
 
 </div>
@@ -167,12 +169,34 @@ Pekerjaan publik mudah dijelajahi; proyek privat sengaja disamarkan demi keamana
 <p align="center">
   <a href="https://github.com/KS-SSS-AI/github-org-map">
     <picture>
-      <img src="../../assets/projects/github-org-map.svg" alt="Peta organisasi yang menampilkan ruang kerja dan proyek privat yang disamarkan." width="100%" />
+      <img src="../../assets/projects/github-org-map.svg" alt="Peta organisasi yang menampilkan ruang kerja dan proyek privat yang disamarkan." width="520" />
     </picture>
   </a>
 </p>
 
 <sub>Repositori privat hanya ditampilkan sebagai label yang disamarkan.</sub>
+
+<p><strong>Peta Jalan Proyek</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen">
+    <picture>
+      <img src="../../assets/locales/id/maps/project-roadmap.svg" alt="Peta jalan proyek publik yang terbagi menjadi jalur sekarang, berikutnya, dan nanti." width="480" />
+    </picture>
+  </a>
+</p>
+
+<p><strong>Peta Jalan Pengembangan</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue">
+    <picture>
+      <img src="../../assets/locales/id/maps/development-roadmap.svg" alt="Peta jalan pengembangan publik yang terbagi menjadi tahap rancang, bangun, verifikasi, dan rilis." width="480" />
+    </picture>
+  </a>
+</p>
+
+<sub>Hanya menggunakan GitHub issue publik. Tambahkan satu label roadmap:* dan satu label stage:* agar muncul otomatis.</sub>
 
 </details>
 

@@ -2,6 +2,7 @@
 
 <p>
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/zh-CN/identity/hero-compact.svg" />
     <img src="../../assets/locales/zh-CN/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — 自主架构与全栈工程" width="78%" />
   </picture>
   <picture>
@@ -20,10 +21,11 @@
 </p>
 
 <p>
-  <img src="../../assets/badges/badge-architecture.svg" alt="Architecture" />
-  <img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" />
-  <img src="../../assets/badges/badge-systems.svg" alt="Systems" />
-  <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
 
 </div>
@@ -167,12 +169,34 @@
 <p align="center">
   <a href="https://github.com/KS-SSS-AI/github-org-map">
     <picture>
-      <img src="../../assets/projects/github-org-map.svg" alt="展示 KS-SSS-AI 工作空间、公开项目以及安全掩码私有资产的组织地图。" width="100%" />
+      <img src="../../assets/projects/github-org-map.svg" alt="展示 KS-SSS-AI 工作空间、公开项目以及安全掩码私有资产的组织地图。" width="520" />
     </picture>
   </a>
 </p>
 
 <sub>私有仓库仅以安全掩码标签形式呈现。</sub>
+
+<p><strong>undefined</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen">
+    <picture>
+      <img src="../../assets/locales/zh-CN/maps/project-roadmap.svg" alt="undefined" width="480" />
+    </picture>
+  </a>
+</p>
+
+<p><strong>undefined</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue">
+    <picture>
+      <img src="../../assets/locales/zh-CN/maps/development-roadmap.svg" alt="undefined" width="480" />
+    </picture>
+  </a>
+</p>
+
+<sub>undefined</sub>
 
 </details>
 

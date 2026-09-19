@@ -2,6 +2,7 @@
 
 <p>
   <picture>
+    <source media="(max-width: 840px)" srcset="./profile/assets/locales/en/identity/hero-compact.svg" />
     <img src="./profile/assets/locales/en/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Autonomous Architectures &amp; Full-Stack Engineering" width="78%" />
   </picture>
   <picture>
@@ -20,10 +21,11 @@
 </p>
 
 <p>
-  <img src="./profile/assets/badges/badge-architecture.svg" alt="Architecture" />
-  <img src="./profile/assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" />
-  <img src="./profile/assets/badges/badge-systems.svg" alt="Systems" />
-  <img src="./profile/assets/badges/badge-stack.svg" alt="Stack" />
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="./profile/assets/badges/badge-release.svg" alt="Release" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="./profile/assets/badges/badge-architecture.svg" alt="Architecture" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="./profile/assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="./profile/assets/badges/badge-systems.svg" alt="Systems" /></a>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="./profile/assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
 
 </div>
@@ -167,12 +169,34 @@ Public work stays easy to browse; private work stays intentionally masked. The o
 <p align="center">
   <a href="https://github.com/KS-SSS-AI/github-org-map">
     <picture>
-      <img src="./profile/assets/projects/github-org-map.svg" alt="Organization map showing the KS-SSS-AI workspace, public projects, and intentionally masked private work." width="100%" />
+      <img src="./profile/assets/projects/github-org-map.svg" alt="Organization map showing the KS-SSS-AI workspace, public projects, and intentionally masked private work." width="520" />
     </picture>
   </a>
 </p>
 
 <sub>Private repositories appear only as masked labels.</sub>
+
+<p><strong>Project Roadmap</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen">
+    <picture>
+      <img src="./profile/assets/locales/en/maps/project-roadmap.svg" alt="Public project roadmap split into now, next, and later lanes." width="480" />
+    </picture>
+  </a>
+</p>
+
+<p><strong>Development Roadmap</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue">
+    <picture>
+      <img src="./profile/assets/locales/en/maps/development-roadmap.svg" alt="Public development roadmap split into plan, build, verify, and ship stages." width="480" />
+    </picture>
+  </a>
+</p>
+
+<sub>Uses public GitHub issues only. Add one roadmap:* label and one stage:* label to a public issue to make it appear.</sub>
 
 </details>
 

@@ -2,6 +2,7 @@
 
 <p>
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/ko/identity/hero-compact.svg" />
     <img src="../../assets/locales/ko/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — 자율 아키텍처 및 풀스택 엔지니어링" width="78%" />
   </picture>
   <picture>
@@ -20,10 +21,11 @@
 </p>
 
 <p>
-  <img src="../../assets/badges/badge-architecture.svg" alt="Architecture" />
-  <img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" />
-  <img src="../../assets/badges/badge-systems.svg" alt="Systems" />
-  <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
 
 </div>
@@ -167,12 +169,34 @@
 <p align="center">
   <a href="https://github.com/KS-SSS-AI/github-org-map">
     <picture>
-      <img src="../../assets/projects/github-org-map.svg" alt="KS-SSS-AI 작업 공간, 공개 프로젝트, 의도적으로 마스킹한 비공개 작업을 보여주는 조직 지도." width="100%" />
+      <img src="../../assets/projects/github-org-map.svg" alt="KS-SSS-AI 작업 공간, 공개 프로젝트, 의도적으로 마스킹한 비공개 작업을 보여주는 조직 지도." width="520" />
     </picture>
   </a>
 </p>
 
 <sub>비공개 저장소는 마스킹된 보안 라벨로만 표시됩니다.</sub>
+
+<p><strong>프로젝트 로드맵</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen">
+    <picture>
+      <img src="../../assets/locales/ko/maps/project-roadmap.svg" alt="지금(Now), 다음(Next), 이후(Later) 레인으로 구성된 공개 프로젝트 로드맵." width="480" />
+    </picture>
+  </a>
+</p>
+
+<p><strong>개발 파이프라인 로드맵</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue">
+    <picture>
+      <img src="../../assets/locales/ko/maps/development-roadmap.svg" alt="계획(Plan), 구축(Build), 검증(Verify), 출시(Ship) 4단계로 구성된 공개 개발 로드맵." width="480" />
+    </picture>
+  </a>
+</p>
+
+<sub>공개 GitHub 이슈 전용입니다. 공개 이슈에 roadmap:* 라벨과 stage:* 라벨을 부여하면 자동으로 연동됩니다.</sub>
 
 </details>
 

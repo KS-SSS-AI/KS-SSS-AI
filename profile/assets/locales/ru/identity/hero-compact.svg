@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGradCompact" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A12"/>
+      <stop offset="60%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#090D18"/>
+    </linearGradient>
+    <linearGradient id="textGradCompact" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <pattern id="gridCompact" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E293B" stroke-width="0.8" stroke-opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <rect width="500" height="220" rx="14" fill="url(#bgGradCompact)"/>
+  <rect width="500" height="220" rx="14" fill="url(#gridCompact)"/>
+  <rect x="1" y="1" width="498" height="218" rx="13" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Status Ribbon -->
+  <g transform="translate(32, 28)">
+    <rect x="0" y="0" width="156" height="24" rx="12" fill="#0E1726" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.4"/>
+    <circle cx="12" cy="12" r="4" fill="#10B981"/>
+    <text x="24" y="16" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600">СИСТЕМА АКТИВНА</text>
+  </g>
+
+  <!-- Brand Title -->
+  <text x="32" y="92" fill="url(#textGradCompact)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800">KS-SSS-AI</text>
+
+  <!-- Tagline -->
+  <text x="32" y="128" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="600">Speed · Scale · Security — Автономные архитектуры и full-stack инженерия</text>
+
+  <!-- Subtitle / Mission -->
+  <text x="32" y="156" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="400">Создание отказоустойчивых интерфейсов, высокопроизводительных пайплайнов и умных автоматизаций.</text>
+
+  <!-- Triple S Indicator -->
+  <g transform="translate(32, 185)">
+    <rect x="0" y="0" width="20" height="4" rx="2" fill="#00F2FE"/>
+    <rect x="26" y="0" width="20" height="4" rx="2" fill="#4FACFE"/>
+    <rect x="52" y="0" width="20" height="4" rx="2" fill="#8B5CF6"/>
+    <text x="82" y="5" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="500">SPEED · SCALE · SECURITY</text>
+  </g>
+</svg>

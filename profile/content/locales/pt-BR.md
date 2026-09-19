@@ -2,6 +2,7 @@
 
 <p>
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/pt-BR/identity/hero-compact.svg" />
     <img src="../../assets/locales/pt-BR/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Arquiteturas autônomas e engenharia full-stack" width="78%" />
   </picture>
   <picture>
@@ -20,10 +21,11 @@
 </p>
 
 <p>
-  <img src="../../assets/badges/badge-architecture.svg" alt="Architecture" />
-  <img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" />
-  <img src="../../assets/badges/badge-systems.svg" alt="Systems" />
-  <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
 
 </div>
@@ -167,12 +169,34 @@ O trabalho público é simples de explorar; o trabalho privado permanece intenci
 <p align="center">
   <a href="https://github.com/KS-SSS-AI/github-org-map">
     <picture>
-      <img src="../../assets/projects/github-org-map.svg" alt="Mapa da organização exibindo o workspace e projetos privados mascarados." width="100%" />
+      <img src="../../assets/projects/github-org-map.svg" alt="Mapa da organização exibindo o workspace e projetos privados mascarados." width="520" />
     </picture>
   </a>
 </p>
 
 <sub>Repositórios privados aparecem apenas como rótulos mascarados.</sub>
+
+<p><strong>undefined</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen">
+    <picture>
+      <img src="../../assets/locales/pt-BR/maps/project-roadmap.svg" alt="undefined" width="480" />
+    </picture>
+  </a>
+</p>
+
+<p><strong>undefined</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue">
+    <picture>
+      <img src="../../assets/locales/pt-BR/maps/development-roadmap.svg" alt="undefined" width="480" />
+    </picture>
+  </a>
+</p>
+
+<sub>undefined</sub>
 
 </details>
 

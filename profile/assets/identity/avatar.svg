@@ -18,26 +18,23 @@
     </filter>
   </defs>
 
-  <!-- Base Dark Canvas -->
   <rect width="512" height="512" rx="120" fill="#0A0E17"/>
   <rect x="16" y="16" width="480" height="480" rx="104" fill="none" stroke="#1E293B" stroke-width="2"/>
 
-  <!-- Outer Cyber Ring -->
   <circle cx="256" cy="256" r="190" fill="none" stroke="url(#cyberGrad)" stroke-width="6" stroke-dasharray="24 12" filter="url(#neonGlow)"/>
   <circle cx="256" cy="256" r="165" fill="#0E1626" stroke="#1E293B" stroke-width="3"/>
 
-  <!-- Core Monogram S-Curves -->
-  <g filter="url(#neonGlow)" fill="url(#glyphGrad)">
-    <!-- Top Curve -->
-    <path d="M 180 180 C 180 140, 332 140, 332 180 C 332 210, 280 220, 256 230 C 210 245, 170 270, 170 320 C 170 370, 336 370, 336 320 L 296 320 C 296 342, 212 342, 212 320 C 212 295, 260 280, 284 270 C 330 255, 372 235, 372 180 C 372 110, 140 110, 140 180 Z" />
-    
-    <!-- Accent Triple Lines (SSS Symbolism) -->
-    <rect x="360" y="140" width="12" height="12" rx="3" fill="#00F2FE"/>
-    <rect x="380" y="140" width="12" height="12" rx="3" fill="#4FACFE"/>
-    <rect x="400" y="140" width="12" height="12" rx="3" fill="#8B5CF6"/>
+  <!-- Core Monogram S-Curves (Triple-S Symbolism) -->
+  <g filter="url(#neonGlow)">
+    <path d="M 190 180 C 190 140, 322 140, 322 180 C 322 210, 275 220, 256 230 C 215 245, 185 270, 185 320 C 185 370, 326 370, 326 320 L 286 320 C 286 342, 225 342, 225 320 C 225 295, 265 280, 284 270 C 325 255, 362 235, 362 180 C 362 110, 150 110, 150 180 Z" fill="#0E1626" stroke="url(#glyphGrad)" stroke-width="8"/>
+    <line x1="220" y1="250" x2="292" y2="250" stroke="#00F2FE" stroke-width="6"/>
+
+    <!-- Accent Triple Bars (SSS: Speed · Scale · Security) -->
+    <rect x="206" y="380" width="28" height="8" rx="4" fill="#00F2FE"/>
+    <rect x="242" y="380" width="28" height="8" rx="4" fill="#4FACFE"/>
+    <rect x="278" y="380" width="28" height="8" rx="4" fill="#8B5CF6"/>
   </g>
 
-  <!-- Live Pulse Dot -->
   <circle cx="410" cy="102" r="14" fill="#00F2FE" filter="url(#neonGlow)"/>
   <circle cx="410" cy="102" r="6" fill="#FFFFFF"/>
 </svg>

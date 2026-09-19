@@ -2,6 +2,7 @@
 
 <p>
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/es/identity/hero-compact.svg" />
     <img src="../../assets/locales/es/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Arquitecturas autónomas e ingeniería full-stack" width="78%" />
   </picture>
   <picture>
@@ -20,10 +21,11 @@
 </p>
 
 <p>
-  <img src="../../assets/badges/badge-architecture.svg" alt="Architecture" />
-  <img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" />
-  <img src="../../assets/badges/badge-systems.svg" alt="Systems" />
-  <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
 
 </div>
@@ -167,12 +169,34 @@ El trabajo público es fácilmente navegable; el trabajo privado se mantiene int
 <p align="center">
   <a href="https://github.com/KS-SSS-AI/github-org-map">
     <picture>
-      <img src="../../assets/projects/github-org-map.svg" alt="Mapa de la organización que muestra el espacio de trabajo, proyectos públicos y privados enmascarados." width="100%" />
+      <img src="../../assets/projects/github-org-map.svg" alt="Mapa de la organización que muestra el espacio de trabajo, proyectos públicos y privados enmascarados." width="520" />
     </picture>
   </a>
 </p>
 
 <sub>Los repositorios privados aparecen únicamente como etiquetas enmascaradas.</sub>
+
+<p><strong>Hoja de Ruta del Proyecto</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen">
+    <picture>
+      <img src="../../assets/locales/es/maps/project-roadmap.svg" alt="Hoja de ruta del proyecto dividida en ahora, siguiente y más tarde." width="480" />
+    </picture>
+  </a>
+</p>
+
+<p><strong>Hoja de Ruta de Desarrollo</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue">
+    <picture>
+      <img src="../../assets/locales/es/maps/development-roadmap.svg" alt="Hoja de ruta de desarrollo dividida en etapas de planificar, construir, verificar y entregar." width="480" />
+    </picture>
+  </a>
+</p>
+
+<sub>Utiliza únicamente issues públicas de GitHub. Añade una etiqueta roadmap:* y una etiqueta stage:* para que aparezca.</sub>
 
 </details>
 

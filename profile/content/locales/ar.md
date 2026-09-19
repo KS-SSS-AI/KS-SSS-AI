@@ -2,6 +2,7 @@
 
 <p>
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/ar/identity/hero-compact.svg" />
     <img src="../../assets/locales/ar/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — البنى المستقلة وهندسة المكدس الكامل" width="78%" />
   </picture>
   <picture>
@@ -20,10 +21,11 @@
 </p>
 
 <p>
-  <img src="../../assets/badges/badge-architecture.svg" alt="Architecture" />
-  <img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" />
-  <img src="../../assets/badges/badge-systems.svg" alt="Systems" />
-  <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
 
 </div>
@@ -167,12 +169,34 @@
 <p align="center">
   <a href="https://github.com/KS-SSS-AI/github-org-map">
     <picture>
-      <img src="../../assets/projects/github-org-map.svg" alt="خريطة المنظمة التي توضح مساحة العمل والمستودعات المقنعة بأمان." width="100%" />
+      <img src="../../assets/projects/github-org-map.svg" alt="خريطة المنظمة التي توضح مساحة العمل والمستودعات المقنعة بأمان." width="520" />
     </picture>
   </a>
 </p>
 
 <sub>تظهر المستودعات الخاصة فقط كتسميات مقنعة بحماية أمنية.</sub>
+
+<p><strong>خارطة طريق المشروع</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen">
+    <picture>
+      <img src="../../assets/locales/ar/maps/project-roadmap.svg" alt="خارطة طريق المشروع مقسمة إلى مسارات: الآن، لاحقاً، وفي المستقبل." width="480" />
+    </picture>
+  </a>
+</p>
+
+<p><strong>خارطة طريق التطوير</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue">
+    <picture>
+      <img src="../../assets/locales/ar/maps/development-roadmap.svg" alt="خارطة طريق التطوير مقسمة إلى مراحل: التخطيط، البناء، التحقق، والإطلاق." width="480" />
+    </picture>
+  </a>
+</p>
+
+<sub>يستخدم المشكلات العامة على GitHub فقط. أضف وسماً roadmap:* ووسماً stage:* لتضمينه تلقائياً.</sub>
 
 </details>
 

@@ -2,6 +2,7 @@
 
 <p>
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/ru/identity/hero-compact.svg" />
     <img src="../../assets/locales/ru/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Автономные архитектуры и full-stack инженерия" width="78%" />
   </picture>
   <picture>
@@ -20,10 +21,11 @@
 </p>
 
 <p>
-  <img src="../../assets/badges/badge-architecture.svg" alt="Architecture" />
-  <img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" />
-  <img src="../../assets/badges/badge-systems.svg" alt="Systems" />
-  <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
 
 </div>
@@ -167,12 +169,34 @@
 <p align="center">
   <a href="https://github.com/KS-SSS-AI/github-org-map">
     <picture>
-      <img src="../../assets/projects/github-org-map.svg" alt="Карта организации с открытыми проектами и защищенными масками." width="100%" />
+      <img src="../../assets/projects/github-org-map.svg" alt="Карта организации с открытыми проектами и защищенными масками." width="520" />
     </picture>
   </a>
 </p>
 
 <sub>Приватные репозитории отображаются только в виде защищенных масок.</sub>
+
+<p><strong>Дорожная карта проектов</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen">
+    <picture>
+      <img src="../../assets/locales/ru/maps/project-roadmap.svg" alt="Публичная дорожная карта проектов, разделенная на этапы: сейчас, далее, позже." width="480" />
+    </picture>
+  </a>
+</p>
+
+<p><strong>Дорожная карта разработки</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue">
+    <picture>
+      <img src="../../assets/locales/ru/maps/development-roadmap.svg" alt="Дорожная карта разработки, разделенная на этапы: планирование, сборка, проверка и выпуск." width="480" />
+    </picture>
+  </a>
+</p>
+
+<sub>Используются только публичные задачи GitHub. Добавьте метку roadmap:* и stage:*, чтобы задача отображалась здесь.</sub>
 
 </details>
 

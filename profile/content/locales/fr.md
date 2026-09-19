@@ -2,6 +2,7 @@
 
 <p>
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/fr/identity/hero-compact.svg" />
     <img src="../../assets/locales/fr/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Architectures autonomes et ingénierie full-stack" width="78%" />
   </picture>
   <picture>
@@ -20,10 +21,11 @@
 </p>
 
 <p>
-  <img src="../../assets/badges/badge-architecture.svg" alt="Architecture" />
-  <img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" />
-  <img src="../../assets/badges/badge-systems.svg" alt="Systems" />
-  <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
 
 </div>
@@ -167,12 +169,34 @@ Les projets publics sont facilement consultables ; les travaux privés restent i
 <p align="center">
   <a href="https://github.com/KS-SSS-AI/github-org-map">
     <picture>
-      <img src="../../assets/projects/github-org-map.svg" alt="Carte de l&apos;organisation montrant l&apos;espace de travail et les projets privés masqués." width="100%" />
+      <img src="../../assets/projects/github-org-map.svg" alt="Carte de l&apos;organisation montrant l&apos;espace de travail et les projets privés masqués." width="520" />
     </picture>
   </a>
 </p>
 
 <sub>Les dépôts privés n&apos;apparaissent que sous forme d&apos;étiquettes masquées.</sub>
+
+<p><strong>Feuille de Route du Projet</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen">
+    <picture>
+      <img src="../../assets/locales/fr/maps/project-roadmap.svg" alt="Feuille de route du projet divisée en voies : actuel, prochain et ultérieur." width="480" />
+    </picture>
+  </a>
+</p>
+
+<p><strong>Feuille de Route de Développement</strong></p>
+
+<p align="center">
+  <a href="https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue">
+    <picture>
+      <img src="../../assets/locales/fr/maps/development-roadmap.svg" alt="Feuille de route de développement divisée en étapes : planifier, construire, vérifier et déployer." width="480" />
+    </picture>
+  </a>
+</p>
+
+<sub>Utilise uniquement les tickets publics GitHub. Ajoutez une étiquette roadmap:* et stage:* pour l&apos;afficher.</sub>
 
 </details>
 
