@@ -52,6 +52,65 @@
 ---
 
 <details>
+<summary><h2 style="display:inline-block; margin:0;">🚀 주요 프로젝트 및 솔루션</h2></summary>
+
+공개 프로젝트는 누구나 쉽게 살펴볼 수 있으며, 비공개 프로젝트는 안전하게 마스킹 처리됩니다. 조직 지도에서 비공개 저장소는 암호화된 해시 라벨로만 표시되며, 로드맵은 공개 텔레메트리를 바탕으로 자동 갱신됩니다.
+
+### 주요 시스템 및 엔지니어링 솔루션
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map-banner.svg" alt="github-org-map banner" width="100%" />
+        </a>
+      </p>
+      <h4>🗺️ <a href="https://github.com/KS-SSS-AI/github-org-map">github-org-map</a></h4>
+      <p><em>KS-SSS-AI 계정 및 조직 저장소의 영지식(Zero-Knowledge) SHA-256 마스킹 기반 일일 자동화 지도 및 토폴로지 매핑.</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map/blob/main/LICENSE"><img src="../../assets/badges/badge-license.svg" alt="License" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-actions.svg" alt="Actions" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-privacy.svg" alt="Privacy" /></a>
+      </p>
+      <ul>
+        <li><strong>🔄 무인 자동화</strong>: GitHub Actions 기반 매일 정기 스케줄 갱신 및 시크릿 유출 없는 격리 워크플로</li>
+        <li><strong>🛡️ 프라이버시 보호</strong>: 비공개 저장소 식별자를 안전하게 마스킹 처리하여 전체 아키텍처만 공개</li>
+        <li><strong>🎨 동적 시각화</strong>: 모든 조직 및 계정 단위 다이내믹 SVG 대시보드 및 움직이는 애니메이션 GIF 생성</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map.svg" alt="github-org-map telemetry" width="100%" />
+        </a>
+      </p>
+      <h4>🔒 <a href="https://github.com/KS-SSS-AI/github-org-map-private">github-org-map-private</a></h4>
+      <p><em>내부 개발 및 지속적인 감사(Audit)를 위한 비공개 컴패니언 워크스페이스 및 언마스킹 텔레메트리 엔진.</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-private.svg" alt="Security" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-telemetry.svg" alt="Telemetry" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-format.svg" alt="Format" /></a>
+      </p>
+      <ul>
+        <li><strong>🔐 듀얼 파이프라인</strong>: 공개용 마스킹 산출물과 함께 내부 관리용 언마스킹 토폴로지 뷰 병행 생성</li>
+        <li><strong>⚡ Zero-SPOF 토폴로지</strong>: 다중 계정 자격증명 자동 로테이션 및 무중단 429 쿼터 페일오버</li>
+        <li><strong>🏛️ 엄격한 기밀성</strong>: DPAPI 기반 자격증명 캡슐화 및 제로 유출 보안 가드레일 완벽 보장</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories">공개 저장소 목록 보기</a> ·
+  <a href="https://github.com/KS-SSS-AI/github-org-map">조직 지도 저장소 탐색</a>
+</p>
+
+</details>
+
+---
+
+<details>
 <summary><h2 style="display:inline-block; margin:0;">🚀 핵심 역량 및 아키텍처</h2></summary>
 
 <table>
@@ -91,6 +150,27 @@
     <img src="../../assets/locales/ko/visuals/technology-stack.svg" alt="⚡ 기술 스택 및 도구 매트릭스" width="100%" />
   </picture>
 </p>
+
+</details>
+
+---
+
+<details>
+<summary><h2 style="display:inline-block; margin:0;">🗺️ 프로젝트 및 로드맵 탐색</h2></summary>
+
+<br />
+
+<p><strong>조직 토폴로지 지도 (Organization Map)</strong></p>
+
+<p align="center">
+  <a href="https://github.com/KS-SSS-AI/github-org-map">
+    <picture>
+      <img src="../../assets/projects/github-org-map.svg" alt="KS-SSS-AI 작업 공간, 공개 프로젝트, 의도적으로 마스킹한 비공개 작업을 보여주는 조직 지도." width="100%" />
+    </picture>
+  </a>
+</p>
+
+<sub>비공개 저장소는 마스킹된 보안 라벨로만 표시됩니다.</sub>
 
 </details>
 

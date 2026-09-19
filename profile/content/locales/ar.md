@@ -52,6 +52,65 @@
 ---
 
 <details>
+<summary><h2 style="display:inline-block; margin:0;">🚀 المشاريع والحلول المميزة</h2></summary>
+
+يمكن تصفح المشاريع العامة بسهولة؛ بينما تظل المشاريع الخاصة مقنعة بأمان. تُظهر خريطة المنظمة المستودعات الخاصة كتسميات مجزأة ومحمية فقط.
+
+### الأنظمة والحلول الهندسية البارزة
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map-banner.svg" alt="github-org-map banner" width="100%" />
+        </a>
+      </p>
+      <h4>🗺️ <a href="https://github.com/KS-SSS-AI/github-org-map">github-org-map</a></h4>
+      <p><em>تخطيط طوبولوجي يومي مؤتمت لمستودعات KS-SSS-AI مع إخفاء أمني قائم على تشفير SHA-256.</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map/blob/main/LICENSE"><img src="../../assets/badges/badge-license.svg" alt="License" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-actions.svg" alt="Actions" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-privacy.svg" alt="Privacy" /></a>
+      </p>
+      <ul>
+        <li><strong>🔄 الأتمتة</strong>: سير عمل GitHub Actions مجدول يومياً مع حماية كاملة للأسرار</li>
+        <li><strong>🛡️ الخصوصية</strong>: إخفاء أسماء المستودعات الخاصة بأمان مع تصور البنية الهندسية</li>
+        <li><strong>🎨 التصور المرئي</strong>: مخططات SVG ديناميكية وإنشاء صور GIF متحركة عبر الحسابات</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map.svg" alt="github-org-map telemetry" width="100%" />
+        </a>
+      </p>
+      <h4>🔒 <a href="https://github.com/KS-SSS-AI/github-org-map-private">github-org-map-private</a></h4>
+      <p><em>مساحة عمل مصاحبة خاصة ومحرك قياس عن بُعد غير مقنع للتطوير والتدقيق الداخلي.</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-private.svg" alt="Security" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-telemetry.svg" alt="Telemetry" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-format.svg" alt="Format" /></a>
+      </p>
+      <ul>
+        <li><strong>🔐 المسار المزدوج</strong>: توليد عروض طوبولوجية داخلية غير مقنعة بالتوازي مع المخرجات العامة</li>
+        <li><strong>⚡ هندسة Zero-SPOF</strong>: تدوير بيانات الاعتماد متعددة الحسابات مع التبديل التلقائي عند تجاوز الحصص (429)</li>
+        <li><strong>🏛️ السرية التامة</strong>: حماية الاعتمادات بنظام DPAPI مع ضمان عدم التسريب نهائياً</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories">تصفح المستودعات العامة</a> ·
+  <a href="https://github.com/KS-SSS-AI/github-org-map">استكشاف خريطة المنظمة</a>
+</p>
+
+</details>
+
+---
+
+<details>
 <summary><h2 style="display:inline-block; margin:0;">🚀 القدرات والبنى المميزة</h2></summary>
 
 <table>
@@ -91,6 +150,27 @@
     <img src="../../assets/locales/ar/visuals/technology-stack.svg" alt="⚡ مجموعة التقنيات والأدوات" width="100%" />
   </picture>
 </p>
+
+</details>
+
+---
+
+<details>
+<summary><h2 style="display:inline-block; margin:0;">🗺️ استكشاف المشاريع وخارطة الطريق</h2></summary>
+
+<br />
+
+<p><strong>خريطة المنظمة والطوبولوجيا</strong></p>
+
+<p align="center">
+  <a href="https://github.com/KS-SSS-AI/github-org-map">
+    <picture>
+      <img src="../../assets/projects/github-org-map.svg" alt="خريطة المنظمة التي توضح مساحة العمل والمستودعات المقنعة بأمان." width="100%" />
+    </picture>
+  </a>
+</p>
+
+<sub>تظهر المستودعات الخاصة فقط كتسميات مقنعة بحماية أمنية.</sub>
 
 </details>
 

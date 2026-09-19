@@ -52,6 +52,65 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 ---
 
 <details>
+<summary><h2 style="display:inline-block; margin:0;">🚀 Projects &amp; Solutions</h2></summary>
+
+Public work stays easy to browse; private work stays intentionally masked. The organization map shows private repositories only as masked labels, and the roadmaps refresh from public issue telemetry.
+
+### Featured Systems &amp; Solutions
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="./profile/assets/projects/github-org-map-banner.svg" alt="github-org-map banner" width="100%" />
+        </a>
+      </p>
+      <h4>🗺️ <a href="https://github.com/KS-SSS-AI/github-org-map">github-org-map</a></h4>
+      <p><em>Automated daily cartography and topology mapping of KS-SSS-AI repositories with zero-knowledge SHA-256 privacy masking.</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map/blob/main/LICENSE"><img src="./profile/assets/badges/badge-license.svg" alt="License" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="./profile/assets/badges/badge-actions.svg" alt="Actions" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="./profile/assets/badges/badge-privacy.svg" alt="Privacy" /></a>
+      </p>
+      <ul>
+        <li><strong>🔄 Automation</strong>: Daily scheduled GitHub Actions workflow with zero-token secrets leakage</li>
+        <li><strong>🛡️ Privacy</strong>: Intentionally masks private repository identifiers while visualizing architecture</li>
+        <li><strong>🎨 Visualization</strong>: Dynamic SVG diagrams and animated GIF generation across all accounts</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="./profile/assets/projects/github-org-map.svg" alt="github-org-map telemetry" width="100%" />
+        </a>
+      </p>
+      <h4>🔒 <a href="https://github.com/KS-SSS-AI/github-org-map-private">github-org-map-private</a></h4>
+      <p><em>Private companion workspace and unmasked telemetry engine for internal development and continuous audit.</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="./profile/assets/badges/badge-private.svg" alt="Security" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="./profile/assets/badges/badge-telemetry.svg" alt="Telemetry" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="./profile/assets/badges/badge-format.svg" alt="Format" /></a>
+      </p>
+      <ul>
+        <li><strong>🔐 Dual Pipeline</strong>: Generates internal unmasked topology views alongside public masked artifacts</li>
+        <li><strong>⚡ Zero-SPOF Topology</strong>: Multi-account credential rotation with automatic 429 failover</li>
+        <li><strong>🏛️ Confidentiality</strong>: Encapsulated secrets with DPAPI protection and strict zero-leakage guarantee</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories">Browse Public Repositories</a> ·
+  <a href="https://github.com/KS-SSS-AI/github-org-map">Explore Organization Map</a>
+</p>
+
+</details>
+
+---
+
+<details>
 <summary><h2 style="display:inline-block; margin:0;">🚀 Featured Capabilities &amp; Architectures</h2></summary>
 
 <table>
@@ -91,6 +150,27 @@ I design and build resilient software systems, intelligent autonomous pipelines,
     <img src="./profile/assets/locales/en/visuals/technology-stack.svg" alt="⚡ Technology Stack &amp; Tooling" width="100%" />
   </picture>
 </p>
+
+</details>
+
+---
+
+<details>
+<summary><h2 style="display:inline-block; margin:0;">🗺️ Explore Projects &amp; Roadmaps</h2></summary>
+
+<br />
+
+<p><strong>Organization Map &amp; Topology</strong></p>
+
+<p align="center">
+  <a href="https://github.com/KS-SSS-AI/github-org-map">
+    <picture>
+      <img src="./profile/assets/projects/github-org-map.svg" alt="Organization map showing the KS-SSS-AI workspace, public projects, and intentionally masked private work." width="100%" />
+    </picture>
+  </a>
+</p>
+
+<sub>Private repositories appear only as masked labels.</sub>
 
 </details>
 

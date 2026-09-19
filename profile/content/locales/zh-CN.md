@@ -52,6 +52,65 @@
 ---
 
 <details>
+<summary><h2 style="display:inline-block; margin:0;">🚀 核心项目与架构方案</h2></summary>
+
+公开项目便于直观查阅，私有项目则经过严格的零知识隐私掩码保护。组织图谱中的私有仓库仅显示为经过加盐哈希的标识，整体架构保持透明与安全。
+
+### 精选系统与工程解决方案
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map-banner.svg" alt="github-org-map banner" width="100%" />
+        </a>
+      </p>
+      <h4>🗺️ <a href="https://github.com/KS-SSS-AI/github-org-map">github-org-map</a></h4>
+      <p><em>基于零知识 SHA-256 掩码的 KS-SSS-AI 仓库拓扑与组织图谱自动日常生成系统。</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map/blob/main/LICENSE"><img src="../../assets/badges/badge-license.svg" alt="License" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-actions.svg" alt="Actions" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-privacy.svg" alt="Privacy" /></a>
+      </p>
+      <ul>
+        <li><strong>🔄 持续自动化</strong>: 基于 GitHub Actions 的定时每日构建与零凭据泄漏的安全工作流</li>
+        <li><strong>🛡️ 隐私安全</strong>: 自动掩码私有存储库标识符，在展示宏观架构的同时严防敏感信息外泄</li>
+        <li><strong>🎨 矢量可视化</strong>: 跨账户动态矢量 SVG 仪表板与高帧率动图 GIF 自动生成</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map.svg" alt="github-org-map telemetry" width="100%" />
+        </a>
+      </p>
+      <h4>🔒 <a href="https://github.com/KS-SSS-AI/github-org-map-private">github-org-map-private</a></h4>
+      <p><em>用于内部敏捷研发与持续审计的私有伴随工作区及未掩码拓扑度量引擎。</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-private.svg" alt="Security" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-telemetry.svg" alt="Telemetry" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-format.svg" alt="Format" /></a>
+      </p>
+      <ul>
+        <li><strong>🔐 双重流水线</strong>: 在发布公开掩码制品的同时并行生成内部精细拓扑图谱</li>
+        <li><strong>⚡ 高可用拓扑</strong>: 多账户凭据动态注入与 429 限流零停机无缝故障转移</li>
+        <li><strong>🏛️ 凭据隔离</strong>: DPAPI 级别加密隔离与严苛的零泄漏自动化防护保障</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories">浏览公开仓库列表</a> ·
+  <a href="https://github.com/KS-SSS-AI/github-org-map">访问组织地图仓库</a>
+</p>
+
+</details>
+
+---
+
+<details>
 <summary><h2 style="display:inline-block; margin:0;">🚀 核心能力与系统架构</h2></summary>
 
 <table>
@@ -91,6 +150,27 @@
     <img src="../../assets/locales/zh-CN/visuals/technology-stack.svg" alt="⚡ 技术栈与工具矩阵" width="100%" />
   </picture>
 </p>
+
+</details>
+
+---
+
+<details>
+<summary><h2 style="display:inline-block; margin:0;">🗺️ 项目拓扑与路线图探索</h2></summary>
+
+<br />
+
+<p><strong>组织架构全景地图</strong></p>
+
+<p align="center">
+  <a href="https://github.com/KS-SSS-AI/github-org-map">
+    <picture>
+      <img src="../../assets/projects/github-org-map.svg" alt="展示 KS-SSS-AI 工作空间、公开项目以及安全掩码私有资产的组织地图。" width="100%" />
+    </picture>
+  </a>
+</p>
+
+<sub>私有仓库仅以安全掩码标签形式呈现。</sub>
 
 </details>
 

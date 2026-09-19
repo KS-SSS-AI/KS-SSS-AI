@@ -52,6 +52,65 @@ Je conçois et développe des systèmes logiciels résilients, des pipelines aut
 ---
 
 <details>
+<summary><h2 style="display:inline-block; margin:0;">🚀 Projets et Solutions d&apos;Ingénierie</h2></summary>
+
+Les projets publics sont facilement consultables ; les travaux privés restent intentionnellement masqués. La cartographie n&apos;affiche les dépôts privés que sous forme d&apos;étiquettes hachées sécurisées.
+
+### Systèmes et Solutions d&apos;Ingénierie
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map-banner.svg" alt="github-org-map banner" width="100%" />
+        </a>
+      </p>
+      <h4>🗺️ <a href="https://github.com/KS-SSS-AI/github-org-map">github-org-map</a></h4>
+      <p><em>Cartographie quotidienne automatisée des dépôts avec masquage de confidentialité SHA-256.</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map/blob/main/LICENSE"><img src="../../assets/badges/badge-license.svg" alt="License" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-actions.svg" alt="Actions" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-privacy.svg" alt="Privacy" /></a>
+      </p>
+      <ul>
+        <li><strong>🔄 Automatisation</strong>: Workflow GitHub Actions quotidien planifié sans fuite de secrets</li>
+        <li><strong>🛡️ Confidentialité</strong>: Masquage sécurisé des identifiants privés tout en visualisant l&apos;architecture</li>
+        <li><strong>🎨 Visualisation</strong>: Tableaux de bord SVG dynamiques et génération de GIF animés</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map.svg" alt="github-org-map telemetry" width="100%" />
+        </a>
+      </p>
+      <h4>🔒 <a href="https://github.com/KS-SSS-AI/github-org-map-private">github-org-map-private</a></h4>
+      <p><em>Espace de travail compagnon privé et moteur de télémétrie non masqué pour l&apos;audit interne.</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-private.svg" alt="Security" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-telemetry.svg" alt="Telemetry" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-format.svg" alt="Format" /></a>
+      </p>
+      <ul>
+        <li><strong>🔐 Double Pipeline</strong>: Génère des vues de topologie internes non masquées en parallèle des artefacts publics</li>
+        <li><strong>⚡ Topologie Zero-SPOF</strong>: Rotation multi-comptes avec basculement automatique en cas de limite 429</li>
+        <li><strong>🏛️ Sécurité Maximale</strong>: Encapsulation des secrets par DPAPI avec garantie stricte de zéro fuite</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories">Parcourir les dépôts publics</a> ·
+  <a href="https://github.com/KS-SSS-AI/github-org-map">Explorer la carte de l&apos;organisation</a>
+</p>
+
+</details>
+
+---
+
+<details>
 <summary><h2 style="display:inline-block; margin:0;">🚀 Capacités et architectures clés</h2></summary>
 
 <table>
@@ -91,6 +150,27 @@ Je conçois et développe des systèmes logiciels résilients, des pipelines aut
     <img src="../../assets/locales/fr/visuals/technology-stack.svg" alt="⚡ Stack technologique et outils" width="100%" />
   </picture>
 </p>
+
+</details>
+
+---
+
+<details>
+<summary><h2 style="display:inline-block; margin:0;">🗺️ Exploration des Projets et Feuilles de Route</h2></summary>
+
+<br />
+
+<p><strong>Carte de l&apos;Organisation et Topologie</strong></p>
+
+<p align="center">
+  <a href="https://github.com/KS-SSS-AI/github-org-map">
+    <picture>
+      <img src="../../assets/projects/github-org-map.svg" alt="Carte de l&apos;organisation montrant l&apos;espace de travail et les projets privés masqués." width="100%" />
+    </picture>
+  </a>
+</p>
+
+<sub>Les dépôts privés n&apos;apparaissent que sous forme d&apos;étiquettes masquées.</sub>
 
 </details>
 

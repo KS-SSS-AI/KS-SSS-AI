@@ -52,6 +52,65 @@ Saya merancang dan membangun sistem perangkat lunak yang tangguh, alur kerja oto
 ---
 
 <details>
+<summary><h2 style="display:inline-block; margin:0;">🚀 Proyek Unggulan &amp; Solusi Arsitektur</h2></summary>
+
+Pekerjaan publik mudah dijelajahi; proyek privat sengaja disamarkan demi keamanan. Peta organisasi hanya menampilkan repositori privat sebagai label hash yang aman.
+
+### Sistem Unggulan &amp; Solusi Rekayasa
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map-banner.svg" alt="github-org-map banner" width="100%" />
+        </a>
+      </p>
+      <h4>🗺️ <a href="https://github.com/KS-SSS-AI/github-org-map">github-org-map</a></h4>
+      <p><em>Pemetaan topologi harian repositori otomatis dengan penyembunyian privasi SHA-256 tanpa pengetahuan.</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map/blob/main/LICENSE"><img src="../../assets/badges/badge-license.svg" alt="License" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-actions.svg" alt="Actions" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-privacy.svg" alt="Privacy" /></a>
+      </p>
+      <ul>
+        <li><strong>🔄 Otomasi Penuh</strong>: Alur kerja harian GitHub Actions terjadwal tanpa kebocoran rahasia</li>
+        <li><strong>🛡️ Perlindungan Privasi</strong>: Menyamarkan nama repositori privat secara aman saat memvisualisasikan arsitektur</li>
+        <li><strong>🎨 Visualisasi Vektor</strong>: Diagram SVG dinamis dan pembuatan GIF animasi di semua akun</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map.svg" alt="github-org-map telemetry" width="100%" />
+        </a>
+      </p>
+      <h4>🔒 <a href="https://github.com/KS-SSS-AI/github-org-map-private">github-org-map-private</a></h4>
+      <p><em>Ruang kerja privat pendamping dan mesin telemetri tanpa masking untuk pengembangan internal.</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-private.svg" alt="Security" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-telemetry.svg" alt="Telemetry" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-format.svg" alt="Format" /></a>
+      </p>
+      <ul>
+        <li><strong>🔐 Jalur Ganda</strong>: Menghasilkan tampilan topologi internal tanpa masking di samping artefak publik</li>
+        <li><strong>⚡ Topologi Zero-SPOF</strong>: Rotasi multi-akun dengan failover otomatis saat mencapai batas 429</li>
+        <li><strong>🏛️ Kerahasiaan Ketat</strong>: Enkapsulasi kredensial dengan DPAPI dan jaminan nol kebocoran</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories">Jelajahi Repositori Publik</a> ·
+  <a href="https://github.com/KS-SSS-AI/github-org-map">Buka Peta Organisasi</a>
+</p>
+
+</details>
+
+---
+
+<details>
 <summary><h2 style="display:inline-block; margin:0;">🚀 Kemampuan dan Arsitektur Unggulan</h2></summary>
 
 <table>
@@ -91,6 +150,27 @@ Saya merancang dan membangun sistem perangkat lunak yang tangguh, alur kerja oto
     <img src="../../assets/locales/id/visuals/technology-stack.svg" alt="⚡ Tumpukan Teknologi &amp; Alat" width="100%" />
   </picture>
 </p>
+
+</details>
+
+---
+
+<details>
+<summary><h2 style="display:inline-block; margin:0;">🗺️ Eksplorasi Proyek &amp; Peta Jalan</h2></summary>
+
+<br />
+
+<p><strong>Peta Organisasi &amp; Topologi</strong></p>
+
+<p align="center">
+  <a href="https://github.com/KS-SSS-AI/github-org-map">
+    <picture>
+      <img src="../../assets/projects/github-org-map.svg" alt="Peta organisasi yang menampilkan ruang kerja dan proyek privat yang disamarkan." width="100%" />
+    </picture>
+  </a>
+</p>
+
+<sub>Repositori privat hanya ditampilkan sebagai label yang disamarkan.</sub>
 
 </details>
 

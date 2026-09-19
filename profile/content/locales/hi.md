@@ -52,6 +52,65 @@
 ---
 
 <details>
+<summary><h2 style="display:inline-block; margin:0;">🚀 प्रमुख परियोजनाएं और समाधान</h2></summary>
+
+सार्वजनिक कार्य को आसानी से देखा जा सकता है; निजी कार्य जानबूझकर सुरक्षित रूप से छिपाया जाता है। संगठन मानचित्र में निजी रिपॉजिटरी केवल सुरक्षित नमकीन हैश लेबल के रूप में दिखाई देती हैं।
+
+### विशेष प्रणालियाँ और समाधान
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map-banner.svg" alt="github-org-map banner" width="100%" />
+        </a>
+      </p>
+      <h4>🗺️ <a href="https://github.com/KS-SSS-AI/github-org-map">github-org-map</a></h4>
+      <p><em>शून्य-ज्ञान SHA-256 मास्किंग के साथ KS-SSS-AI रिपॉजिटरी का स्वचालित दैनिक टोपोलॉजी मानचित्रण।</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map/blob/main/LICENSE"><img src="../../assets/badges/badge-license.svg" alt="License" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-actions.svg" alt="Actions" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-privacy.svg" alt="Privacy" /></a>
+      </p>
+      <ul>
+        <li><strong>🔄 स्वचालन</strong>: शून्य टोकन लीक के साथ दैनिक अनुसूचित GitHub Actions वर्कफ़्लो</li>
+        <li><strong>🛡️ गोपनीयता</strong>: आर्किटेक्चर की कल्पना करते समय निजी रिपॉजिटरी पहचानकर्ताओं को सुरक्षित रूप से छुपाता है</li>
+        <li><strong>🎨 विज़ुअलाइज़ेशन</strong>: सभी खातों में गतिशील SVG आरेख और एनिमेटेड GIF निर्माण</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/KS-SSS-AI/github-org-map">
+          <img src="../../assets/projects/github-org-map.svg" alt="github-org-map telemetry" width="100%" />
+        </a>
+      </p>
+      <h4>🔒 <a href="https://github.com/KS-SSS-AI/github-org-map-private">github-org-map-private</a></h4>
+      <p><em>आंतरिक विकास और निरंतर ऑडिट के लिए निजी साथी कार्यक्षेत्र और टेलीमेट्री इंजन।</em></p>
+      <p>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-private.svg" alt="Security" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-telemetry.svg" alt="Telemetry" /></a>
+        <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-format.svg" alt="Format" /></a>
+      </p>
+      <ul>
+        <li><strong>🔐 दोहरी पाइपलाइन</strong>: सार्वजनिक मास्क कलाकृतियों के साथ-साथ आंतरिक अनावृत टोपोलॉजी दृश्य उत्पन्न करता है</li>
+        <li><strong>⚡ Zero-SPOF टोपोलॉजी</strong>: स्वचालित 429 विफलता के साथ बहु-खाता क्रेडेंशियल रोटेशन</li>
+        <li><strong>🏛️ गोपनीयता</strong>: DPAPI सुरक्षा और सख्त शून्य-रिसाव गारंटी के साथ सुरक्षित क्रेडेंशियल</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/KS-SSS-AI?tab=repositories">सार्वजनिक रिपॉजिटरी ब्राउज़ करें</a> ·
+  <a href="https://github.com/KS-SSS-AI/github-org-map">संगठन मानचित्र देखें</a>
+</p>
+
+</details>
+
+---
+
+<details>
 <summary><h2 style="display:inline-block; margin:0;">🚀 मुख्य क्षमताएं एवं वास्तुकला</h2></summary>
 
 <table>
@@ -91,6 +150,27 @@
     <img src="../../assets/locales/hi/visuals/technology-stack.svg" alt="⚡ प्रौद्योगिकी स्टैक और उपकरण" width="100%" />
   </picture>
 </p>
+
+</details>
+
+---
+
+<details>
+<summary><h2 style="display:inline-block; margin:0;">🗺️ परियोजनाएं और रोडमैप अन्वेषण</h2></summary>
+
+<br />
+
+<p><strong>संगठन मानचित्र और टोपोलॉजी</strong></p>
+
+<p align="center">
+  <a href="https://github.com/KS-SSS-AI/github-org-map">
+    <picture>
+      <img src="../../assets/projects/github-org-map.svg" alt="KS-SSS-AI कार्यक्षेत्र और मास्क की गई निजी परियोजनाओं को दिखाने वाला संगठन मानचित्र।" width="100%" />
+    </picture>
+  </a>
+</p>
+
+<sub>निजी रिपॉजिटरी केवल नकाबपोश लेबल के रूप में दिखाई देती हैं।</sub>
 
 </details>
 
