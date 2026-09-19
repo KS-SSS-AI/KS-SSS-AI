@@ -1,0 +1,32 @@
+name: Profile CI & Link Verification
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm ci --prefix profile/automation/roadmaps --ignore-scripts
+
+      - name: Run roadmap tests
+        run: npm run --prefix profile/automation/roadmaps roadmaps:test
+
+      - name: Verify relative asset link integrity
+        run: npm run --prefix profile/automation/roadmaps roadmaps:verify

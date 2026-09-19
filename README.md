@@ -23,7 +23,8 @@
 <p>
   <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="./profile/assets/badges/badge-release.svg" alt="Release" /></a>
   <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="./profile/assets/badges/badge-architecture.svg" alt="Architecture" /></a>
-  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="./profile/assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/actions"><img src="./profile/assets/badges/badge-ci.svg" alt="CI Status" /></a>
+  <a href="./profile/docs/architecture.md"><img src="./profile/assets/badges/badge-security.svg" alt="Security" /></a>
   <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="./profile/assets/badges/badge-systems.svg" alt="Systems" /></a>
   <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="./profile/assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
@@ -147,13 +148,33 @@ Public work stays easy to browse; private work stays intentionally masked. The o
 <details>
 <summary><h2 style="display:inline-block; margin:0;">⚡ Technology Stack &amp; Tooling</h2></summary>
 
+<p><em>Self-hosted, native vector badges — Zero third-party runtime dependencies</em></p>
+
+- **Languages &amp; Runtimes** — TypeScript, JavaScript, Python, Go, Bash, SQL, HTML5, CSS3
+- **Surfaces &amp; Frontend** — React, Next.js, Vite, Tailwind CSS, Web Components
+- **Microservices &amp; APIs** — Node.js, FastAPI, Express, GraphQL, REST APIs, WebSockets
+- **Databases &amp; Caches** — PostgreSQL, Redis, Prisma, MongoDB, SQLite
+- **Delivery &amp; Orchestration** — Docker, GitHub Actions, Linux / Ubuntu, Multi-Account Runner
+
+<details>
+<summary><strong>Explore the visual stack &amp; live motion</strong></summary>
+
 <br />
 
-<p align="center">
-  <picture>
-    <img src="./profile/assets/locales/en/visuals/technology-stack.svg" alt="⚡ Technology Stack &amp; Tooling" width="100%" />
-  </picture>
-</p>
+<p><strong>Technical map</strong></p>
+
+<picture>
+  <source media="(max-width: 840px)" srcset="./profile/assets/locales/en/visuals/technology-stack-compact.svg" />
+  <img src="./profile/assets/locales/en/visuals/technology-stack.svg" alt="⚡ Technology Stack &amp; Tooling" width="100%" />
+</picture>
+
+<p><strong>In motion</strong></p>
+
+<picture>
+  <img src="./profile/assets/locales/en/motion/technology-stack.gif" alt="Animated technical pipeline in motion" width="100%" />
+</picture>
+
+</details>
 
 </details>
 
@@ -209,14 +230,20 @@ Public work stays easy to browse; private work stays intentionally masked. The o
 
 <p align="center">
   <picture>
+    <source media="(max-width: 840px)" srcset="./profile/assets/locales/en/visuals/architecture-metrics-compact.svg" />
     <img src="./profile/assets/locales/en/visuals/architecture-metrics.svg" alt="📊 Architecture Dashboard &amp; Delivery Metrics" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
+    <source media="(max-width: 840px)" srcset="./profile/assets/locales/en/visuals/workflow-pipeline-compact.svg" />
     <img src="./profile/assets/locales/en/visuals/workflow-pipeline.svg" alt="AUTONOMOUS VIBE CODING PIPELINE" width="100%" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="./profile/docs/architecture.md">📖 Explore Full Architecture Specification &amp; Governance</a>
 </p>
 
 </details>
@@ -227,4 +254,4 @@ Public work stays easy to browse; private work stays intentionally masked. The o
 
 Interested in discussing autonomous software architectures, engineering collaboration, or innovative system designs?
 
-[GitHub Profile](https://github.com/KS-SSS-AI) · [Public Repositories](https://github.com/KS-SSS-AI?tab=repositories) · [Send an Email](mailto:youprodie@gmail.com)
+[GitHub Profile](https://github.com/KS-SSS-AI) · [Public Repositories](https://github.com/KS-SSS-AI?tab=repositories) · [Roadmap Tracker](https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen) · [Architecture Guide](./profile/docs/architecture.md) · [Send an Email](mailto:youprodie@gmail.com)

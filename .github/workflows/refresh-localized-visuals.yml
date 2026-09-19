@@ -1,0 +1,73 @@
+name: Refresh localized visual assets
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "profile/automation/visuals/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-readme-assets
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install roadmap tooling
+        run: npm ci --prefix profile/automation/roadmaps --ignore-scripts
+
+      - name: Refresh visual assets
+        run: npm run --prefix profile/automation/roadmaps roadmaps:update
+
+      - name: Upload refreshed assets
+        uses: actions/upload-artifact@v4
+        with:
+          name: visuals
+          retention-days: 1
+          path: profile/assets
+
+  commit:
+    needs: generate
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Download refreshed assets
+        uses: actions/download-artifact@v4
+        with:
+          name: visuals
+          path: profile/assets
+
+      - name: Commit localized visual assets
+        run: |
+          paths="profile/assets"
+          if [ -z "$(git status --porcelain -- $paths)" ]; then
+            echo "Visual assets are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- $paths
+          git commit -m "chore: refresh localized visual assets"
+          git push

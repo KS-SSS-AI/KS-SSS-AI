@@ -1,0 +1,40 @@
+name: "🗺️ Public Roadmap Item"
+description: "Submit an item to be tracked on the public KS-SSS-AI project or development roadmap"
+title: "[ROADMAP]: "
+labels: ["roadmap:active"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Items submitted here will automatically be indexed by the public roadmap automation pipeline and reflected in the organization profile.
+  - type: dropdown
+    id: lane
+    attributes:
+      label: "Roadmap Lane (Time Horizon)"
+      description: "Select which project roadmap lane this item belongs to"
+      options:
+        - "roadmap:now (Current focus / immediate deliverables)"
+        - "roadmap:next (Next in queue / planned architecture)"
+        - "roadmap:later (Future vision / exploratory initiatives)"
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: "Development Stage"
+      description: "Select the current lifecycle stage for the development pipeline roadmap"
+      options:
+        - "stage:plan (Architecture & requirements definition)"
+        - "stage:build (Core implementation & prototyping)"
+        - "stage:verify (Security audit & test coverage)"
+        - "stage:ship (Production release & packaging)"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Summary & Scope"
+      description: "Describe what this item delivers, architectural impact, and expected outcomes"
+      placeholder: "Clear summary of the architectural capability, interface, or reliability enhancement..."
+    validations:
+      required: true

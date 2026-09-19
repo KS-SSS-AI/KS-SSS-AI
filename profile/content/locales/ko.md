@@ -23,7 +23,8 @@
 <p>
   <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
   <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
-  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/actions"><img src="../../assets/badges/badge-ci.svg" alt="CI Status" /></a>
+  <a href="../../docs/architecture.md"><img src="../../assets/badges/badge-security.svg" alt="Security" /></a>
   <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
   <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
@@ -147,13 +148,33 @@
 <details>
 <summary><h2 style="display:inline-block; margin:0;">⚡ 기술 스택 및 도구 매트릭스</h2></summary>
 
+<p><em>자체 호스팅 네이티브 벡터 배지 — 외부 런타임 의존성 0%</em></p>
+
+- **Languages &amp; Runtimes** — TypeScript, JavaScript, Python, Go, Bash, SQL, HTML5, CSS3
+- **Surfaces &amp; Frontend** — React, Next.js, Vite, Tailwind CSS, Web Components
+- **Microservices &amp; APIs** — Node.js, FastAPI, Express, GraphQL, REST APIs, WebSockets
+- **Databases &amp; Caches** — PostgreSQL, Redis, Prisma, MongoDB, SQLite
+- **Delivery &amp; Orchestration** — Docker, GitHub Actions, Linux / Ubuntu, Multi-Account Runner
+
+<details>
+<summary><strong>Explore the visual stack &amp; live motion</strong></summary>
+
 <br />
 
-<p align="center">
-  <picture>
-    <img src="../../assets/locales/ko/visuals/technology-stack.svg" alt="⚡ 기술 스택 및 도구 매트릭스" width="100%" />
-  </picture>
-</p>
+<p><strong>Technical map</strong></p>
+
+<picture>
+  <source media="(max-width: 840px)" srcset="../../assets/locales/ko/visuals/technology-stack-compact.svg" />
+  <img src="../../assets/locales/ko/visuals/technology-stack.svg" alt="⚡ 기술 스택 및 도구 매트릭스" width="100%" />
+</picture>
+
+<p><strong>In motion</strong></p>
+
+<picture>
+  <img src="../../assets/locales/ko/motion/technology-stack.gif" alt="Animated technical pipeline in motion" width="100%" />
+</picture>
+
+</details>
 
 </details>
 
@@ -209,14 +230,20 @@
 
 <p align="center">
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/ko/visuals/architecture-metrics-compact.svg" />
     <img src="../../assets/locales/ko/visuals/architecture-metrics.svg" alt="📊 아키텍처 대시보드 및 배포 지표" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/ko/visuals/workflow-pipeline-compact.svg" />
     <img src="../../assets/locales/ko/visuals/workflow-pipeline.svg" alt="자율 바이브 코딩 파이프라인 (AUTONOMOUS VIBE PIPELINE)" width="100%" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="../../docs/architecture.md">📖 Explore Full Architecture Specification &amp; Governance</a>
 </p>
 
 </details>
@@ -227,4 +254,4 @@
 
 자율 소프트웨어 아키텍처, 시스템 설계 및 엔지니어링 협업 논의를 환영합니다.
 
-[GitHub Profile](https://github.com/KS-SSS-AI) · [Public Repositories](https://github.com/KS-SSS-AI?tab=repositories) · [Send an Email](mailto:youprodie@gmail.com)
+[GitHub Profile](https://github.com/KS-SSS-AI) · [Public Repositories](https://github.com/KS-SSS-AI?tab=repositories) · [Roadmap Tracker](https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen) · [Architecture Guide](../../docs/architecture.md) · [Send an Email](mailto:youprodie@gmail.com)

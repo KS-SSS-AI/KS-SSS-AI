@@ -23,7 +23,8 @@
 <p>
   <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
   <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
-  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/actions"><img src="../../assets/badges/badge-ci.svg" alt="CI Status" /></a>
+  <a href="../../docs/architecture.md"><img src="../../assets/badges/badge-security.svg" alt="Security" /></a>
   <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
   <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
@@ -147,13 +148,33 @@
 <details>
 <summary><h2 style="display:inline-block; margin:0;">⚡ Стек технологий и инструментарий</h2></summary>
 
+<p><em>Автономные векторные бейджи — 0% сторонних внешних зависимостей</em></p>
+
+- **Languages &amp; Runtimes** — TypeScript, JavaScript, Python, Go, Bash, SQL, HTML5, CSS3
+- **Surfaces &amp; Frontend** — React, Next.js, Vite, Tailwind CSS, Web Components
+- **Microservices &amp; APIs** — Node.js, FastAPI, Express, GraphQL, REST APIs, WebSockets
+- **Databases &amp; Caches** — PostgreSQL, Redis, Prisma, MongoDB, SQLite
+- **Delivery &amp; Orchestration** — Docker, GitHub Actions, Linux / Ubuntu, Multi-Account Runner
+
+<details>
+<summary><strong>Explore the visual stack &amp; live motion</strong></summary>
+
 <br />
 
-<p align="center">
-  <picture>
-    <img src="../../assets/locales/ru/visuals/technology-stack.svg" alt="⚡ Стек технологий и инструментарий" width="100%" />
-  </picture>
-</p>
+<p><strong>Technical map</strong></p>
+
+<picture>
+  <source media="(max-width: 840px)" srcset="../../assets/locales/ru/visuals/technology-stack-compact.svg" />
+  <img src="../../assets/locales/ru/visuals/technology-stack.svg" alt="⚡ Стек технологий и инструментарий" width="100%" />
+</picture>
+
+<p><strong>In motion</strong></p>
+
+<picture>
+  <img src="../../assets/locales/ru/motion/technology-stack.gif" alt="Animated technical pipeline in motion" width="100%" />
+</picture>
+
+</details>
 
 </details>
 
@@ -209,14 +230,20 @@
 
 <p align="center">
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/ru/visuals/architecture-metrics-compact.svg" />
     <img src="../../assets/locales/ru/visuals/architecture-metrics.svg" alt="📊 Панель архитектуры и метрики надежности" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/ru/visuals/workflow-pipeline-compact.svg" />
     <img src="../../assets/locales/ru/visuals/workflow-pipeline.svg" alt="АВТОНОМНЫЙ ПАЙПЛАЙН ВАЙБ-КОДИНГА" width="100%" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="../../docs/architecture.md">📖 Explore Full Architecture Specification &amp; Governance</a>
 </p>
 
 </details>
@@ -227,4 +254,4 @@
 
 Заинтересованы в обсуждении автономных архитектур, инженерном партнерстве или инновационных решениях?
 
-[GitHub Profile](https://github.com/KS-SSS-AI) · [Public Repositories](https://github.com/KS-SSS-AI?tab=repositories) · [Send an Email](mailto:youprodie@gmail.com)
+[GitHub Profile](https://github.com/KS-SSS-AI) · [Public Repositories](https://github.com/KS-SSS-AI?tab=repositories) · [Roadmap Tracker](https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen) · [Architecture Guide](../../docs/architecture.md) · [Send an Email](mailto:youprodie@gmail.com)

@@ -1,0 +1,89 @@
+name: Refresh public roadmaps
+
+on:
+  schedule:
+    - cron: "23 3 * * 1,4"
+  workflow_dispatch:
+  issues:
+    types: [opened, edited, closed, reopened, labeled, unlabeled, milestoned, demilestoned]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-readme-assets
+  cancel-in-progress: false
+
+jobs:
+  # Reads public issues and renders the roadmaps. Runs dependency code, so it
+  # never holds a credential that can push.
+  generate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      issues: read
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install roadmap tooling
+        run: npm ci --prefix profile/automation/roadmaps --ignore-scripts
+
+      - name: Generate public roadmaps
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run --prefix profile/automation/roadmaps roadmaps:update
+
+      - name: Test roadmap generator
+        run: npm run --prefix profile/automation/roadmaps roadmaps:test
+
+      - name: Upload refreshed roadmaps
+        uses: actions/upload-artifact@v4
+        with:
+          name: roadmaps
+          retention-days: 1
+          path: |
+            README.md
+            profile/assets/maps/project-roadmap.svg
+            profile/assets/maps/development-roadmap.svg
+            profile/assets/locales/*/maps/*-roadmap.svg
+            profile/data/roadmap-state.json
+            profile/content/locales/*.md
+
+  # Commits what the generate job produced. Holds push access but no secrets
+  # and runs no dependency code.
+  commit:
+    needs: generate
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Download refreshed roadmaps
+        uses: actions/download-artifact@v4
+        with:
+          name: roadmaps
+
+      - name: Commit refreshed roadmaps
+        run: |
+          paths="README.md profile/assets/maps profile/assets/locales profile/data/roadmap-state.json profile/content/locales"
+          if [ -z "$(git status --porcelain -- $paths)" ]; then
+            echo "Roadmaps are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- $paths
+          git commit -m "chore: refresh public roadmaps"
+          git push

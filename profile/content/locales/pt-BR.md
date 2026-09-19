@@ -23,7 +23,8 @@
 <p>
   <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/releases"><img src="../../assets/badges/badge-release.svg" alt="Release" /></a>
   <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-architecture.svg" alt="Architecture" /></a>
-  <a href="https://github.com/KS-SSS-AI/github-org-map"><img src="../../assets/badges/badge-vibe-coding.svg" alt="Vibe Coding" /></a>
+  <a href="https://github.com/KS-SSS-AI/KS-SSS-AI/actions"><img src="../../assets/badges/badge-ci.svg" alt="CI Status" /></a>
+  <a href="../../docs/architecture.md"><img src="../../assets/badges/badge-security.svg" alt="Security" /></a>
   <a href="https://github.com/KS-SSS-AI/github-org-map-private"><img src="../../assets/badges/badge-systems.svg" alt="Systems" /></a>
   <a href="https://github.com/KS-SSS-AI?tab=repositories"><img src="../../assets/badges/badge-stack.svg" alt="Stack" /></a>
 </p>
@@ -147,13 +148,33 @@ O trabalho público é simples de explorar; o trabalho privado permanece intenci
 <details>
 <summary><h2 style="display:inline-block; margin:0;">⚡ Stack Tecnológica e Ferramentas</h2></summary>
 
+<p><em>Badges vetoriais nativos auto-hospedados — Zero dependências externas</em></p>
+
+- **Languages &amp; Runtimes** — TypeScript, JavaScript, Python, Go, Bash, SQL, HTML5, CSS3
+- **Surfaces &amp; Frontend** — React, Next.js, Vite, Tailwind CSS, Web Components
+- **Microservices &amp; APIs** — Node.js, FastAPI, Express, GraphQL, REST APIs, WebSockets
+- **Databases &amp; Caches** — PostgreSQL, Redis, Prisma, MongoDB, SQLite
+- **Delivery &amp; Orchestration** — Docker, GitHub Actions, Linux / Ubuntu, Multi-Account Runner
+
+<details>
+<summary><strong>Explore the visual stack &amp; live motion</strong></summary>
+
 <br />
 
-<p align="center">
-  <picture>
-    <img src="../../assets/locales/pt-BR/visuals/technology-stack.svg" alt="⚡ Stack Tecnológica e Ferramentas" width="100%" />
-  </picture>
-</p>
+<p><strong>Technical map</strong></p>
+
+<picture>
+  <source media="(max-width: 840px)" srcset="../../assets/locales/pt-BR/visuals/technology-stack-compact.svg" />
+  <img src="../../assets/locales/pt-BR/visuals/technology-stack.svg" alt="⚡ Stack Tecnológica e Ferramentas" width="100%" />
+</picture>
+
+<p><strong>In motion</strong></p>
+
+<picture>
+  <img src="../../assets/locales/pt-BR/motion/technology-stack.gif" alt="Animated technical pipeline in motion" width="100%" />
+</picture>
+
+</details>
 
 </details>
 
@@ -209,14 +230,20 @@ O trabalho público é simples de explorar; o trabalho privado permanece intenci
 
 <p align="center">
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/pt-BR/visuals/architecture-metrics-compact.svg" />
     <img src="../../assets/locales/pt-BR/visuals/architecture-metrics.svg" alt="📊 Painel de Arquitetura e Métricas de Entrega" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
+    <source media="(max-width: 840px)" srcset="../../assets/locales/pt-BR/visuals/workflow-pipeline-compact.svg" />
     <img src="../../assets/locales/pt-BR/visuals/workflow-pipeline.svg" alt="PIPELINE AUTÔNOMO DE VIBE CODING" width="100%" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="../../docs/architecture.md">📖 Explore Full Architecture Specification &amp; Governance</a>
 </p>
 
 </details>
@@ -227,4 +254,4 @@ O trabalho público é simples de explorar; o trabalho privado permanece intenci
 
 Interessado em discutir arquiteturas de software autônomas, colaboração técnica ou sistemas inovadores?
 
-[GitHub Profile](https://github.com/KS-SSS-AI) · [Public Repositories](https://github.com/KS-SSS-AI?tab=repositories) · [Send an Email](mailto:youprodie@gmail.com)
+[GitHub Profile](https://github.com/KS-SSS-AI) · [Public Repositories](https://github.com/KS-SSS-AI?tab=repositories) · [Roadmap Tracker](https://github.com/issues?q=user%3AKS-SSS-AI+is%3Aissue+is%3Aopen) · [Architecture Guide](../../docs/architecture.md) · [Send an Email](mailto:youprodie@gmail.com)
