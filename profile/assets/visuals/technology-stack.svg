@@ -20,12 +20,12 @@
   </g>
 
   
-    <!-- Category Row: Languages & Runtimes -->
+    <!-- Category Row: Languages &amp; Runtimes -->
     <g transform="translate(0, 0)">
       <line x1="30" y1="66" x2="930" y2="66" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="4 4" opacity="0.4"/>
       <rect x="36" y="52" width="230" height="28" rx="6" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1"/>
       <circle cx="50" cy="66" r="3.5" fill="#38BDF8"/>
-      <text x="62" y="70" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">Languages & Runtimes</text>
+      <text x="62" y="70" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">Languages &amp; Runtimes</text>
       
       <g transform="translate(290, 52)">
         <rect width="117" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
@@ -58,12 +58,12 @@
         <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">SQL</text>
       </g>
     </g>
-    <!-- Category Row: Frontend & UI Surfaces -->
+    <!-- Category Row: Frontend &amp; UI Surfaces -->
     <g transform="translate(0, 0)">
       <line x1="30" y1="122" x2="930" y2="122" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="4 4" opacity="0.4"/>
       <rect x="36" y="108" width="230" height="28" rx="6" fill="#A855F7" fill-opacity="0.12" stroke="#A855F7" stroke-opacity="0.3" stroke-width="1"/>
       <circle cx="50" cy="122" r="3.5" fill="#A855F7"/>
-      <text x="62" y="126" fill="#A855F7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">Frontend & UI Surfaces</text>
+      <text x="62" y="126" fill="#A855F7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">Frontend &amp; UI Surfaces</text>
       
       <g transform="translate(290, 108)">
         <rect width="74.5" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
@@ -96,12 +96,12 @@
         <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Web Components</text>
       </g>
     </g>
-    <!-- Category Row: Backend & Distributed Services -->
+    <!-- Category Row: Backend &amp; Distributed Services -->
     <g transform="translate(0, 0)">
       <line x1="30" y1="178" x2="930" y2="178" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="4 4" opacity="0.4"/>
       <rect x="36" y="164" width="230" height="28" rx="6" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-opacity="0.3" stroke-width="1"/>
       <circle cx="50" cy="178" r="3.5" fill="#10B981"/>
-      <text x="62" y="182" fill="#10B981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">Backend & Distributed Services</text>
+      <text x="62" y="182" fill="#10B981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">Backend &amp; Distributed Services</text>
       
       <g transform="translate(290, 164)">
         <rect width="91.5" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
@@ -134,12 +134,12 @@
         <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">WebSockets</text>
       </g>
     </g>
-    <!-- Category Row: Data & State Persistence -->
+    <!-- Category Row: Data &amp; State Persistence -->
     <g transform="translate(0, 0)">
       <line x1="30" y1="234" x2="930" y2="234" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="4 4" opacity="0.4"/>
       <rect x="36" y="220" width="230" height="28" rx="6" fill="#F59E0B" fill-opacity="0.12" stroke="#F59E0B" stroke-opacity="0.3" stroke-width="1"/>
       <circle cx="50" cy="234" r="3.5" fill="#F59E0B"/>
-      <text x="62" y="238" fill="#F59E0B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">Data & State Persistence</text>
+      <text x="62" y="238" fill="#F59E0B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">Data &amp; State Persistence</text>
       
       <g transform="translate(290, 220)">
         <rect width="117" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
@@ -167,12 +167,12 @@
         <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">SQLite</text>
       </g>
     </g>
-    <!-- Category Row: DevOps & Autonomous Automation -->
+    <!-- Category Row: DevOps &amp; Autonomous Automation -->
     <g transform="translate(0, 0)">
       <line x1="30" y1="290" x2="930" y2="290" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="4 4" opacity="0.4"/>
       <rect x="36" y="276" width="230" height="28" rx="6" fill="#EC4899" fill-opacity="0.12" stroke="#EC4899" stroke-opacity="0.3" stroke-width="1"/>
       <circle cx="50" cy="290" r="3.5" fill="#EC4899"/>
-      <text x="62" y="294" fill="#EC4899" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">DevOps & Autonomous Automation</text>
+      <text x="62" y="294" fill="#EC4899" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">DevOps &amp; Autonomous Automation</text>
       
       <g transform="translate(290, 276)">
         <rect width="83" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>

@@ -31,7 +31,7 @@
       <rect width="160" height="96" rx="10" fill="#111827" stroke="#818CF8" stroke-opacity="0.35" stroke-width="1"/>
       <rect x="12" y="12" width="28" height="20" rx="4" fill="#818CF8" fill-opacity="0.15"/>
       <text x="26" y="26" fill="#818CF8" font-family="-apple-system, sans-serif" font-size="11" font-weight="800" text-anchor="middle">02</text>
-      <text x="14" y="54" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">Spec & Arch</text>
+      <text x="14" y="54" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">Spec &amp; Arch</text>
       <text x="14" y="74" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5">Zero-SPOF Topology</text>
     </g>
       <!-- Arrow -->
@@ -58,7 +58,7 @@
       <rect x="12" y="12" width="28" height="20" rx="4" fill="#10B981" fill-opacity="0.15"/>
       <text x="26" y="26" fill="#10B981" font-family="-apple-system, sans-serif" font-size="11" font-weight="800" text-anchor="middle">04</text>
       <text x="14" y="54" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">Verification</text>
-      <text x="14" y="74" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5">Lint, Test & Security Audit</text>
+      <text x="14" y="74" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="10.5">Lint, Test &amp; Security Audit</text>
     </g>
       <!-- Arrow -->
       <g transform="translate(765, 80)">
