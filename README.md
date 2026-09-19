@@ -15,8 +15,8 @@
 </p>
 
 <p>
-  <strong>🇺🇸 English</strong> · [🇰🇷 한국어](./profile/content/locales/ko.md) · [🇨🇳 中文](./profile/content/locales/zh-CN.md) · [🇪🇸 Español](./profile/content/locales/es.md) · [🇮🇳 हिन्दी](./profile/content/locales/hi.md)<br />
-  [🇸🇦 العربية](./profile/content/locales/ar.md) · [🇧🇷 Português](./profile/content/locales/pt-BR.md) · [🇷🇺 Русский](./profile/content/locales/ru.md) · [🇫🇷 Français](./profile/content/locales/fr.md) · [🇮🇩 Bahasa Indonesia](./profile/content/locales/id.md)
+  <strong>🇺🇸 English</strong> · <a href="./profile/content/locales/ko.md">🇰🇷 한국어</a> · <a href="./profile/content/locales/zh-CN.md">🇨🇳 中文</a> · <a href="./profile/content/locales/es.md">🇪🇸 Español</a> · <a href="./profile/content/locales/hi.md">🇮🇳 हिन्दी</a><br />
+  <a href="./profile/content/locales/ar.md">🇸🇦 العربية</a> · <a href="./profile/content/locales/pt-BR.md">🇧🇷 Português</a> · <a href="./profile/content/locales/ru.md">🇷🇺 Русский</a> · <a href="./profile/content/locales/fr.md">🇫🇷 Français</a> · <a href="./profile/content/locales/id.md">🇮🇩 Bahasa Indonesia</a>
 </p>
 
 <p>
