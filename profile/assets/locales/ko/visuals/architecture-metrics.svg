@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="metBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A13"/>
+      <stop offset="100%" stop-color="#0E1626"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="980" height="210" rx="16" fill="url(#metBg)"/>
+  <rect x="1" y="1" width="978" height="208" rx="15" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  
+    <g transform="translate(24, 24)">
+      <rect width="298" height="162" rx="12" fill="#0D1524" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="#38BDF8" fill-opacity="0.2"/>
+      <text x="28" y="34" fill="#38BDF8" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" text-anchor="middle">⚡</text>
+      <text x="48" y="34" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">자율 오케스트레이션</text>
+      <text x="20" y="70" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 다중 계정 429 무중단 페일오버</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 동적 토큰 실시간 주입</text>
+    <text x="20" y="118" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 연속적인 에이전트 실행</text>
+      <text x="20" y="142" fill="#38BDF8" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">상태: 무중단 가동 (Zero Downtime)</text>
+    </g>
+
+    <g transform="translate(334, 24)">
+      <rect width="298" height="162" rx="12" fill="#0D1524" stroke="#A855F7" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="#A855F7" fill-opacity="0.2"/>
+      <text x="28" y="34" fill="#A855F7" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" text-anchor="middle">🏛️</text>
+      <text x="48" y="34" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">시스템 및 아키텍처</text>
+      <text x="20" y="70" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 최소 코드 및 YAGNI 설계 철학</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• Zero-SPOF 디커플링 마이크로서비스</text>
+    <text x="20" y="118" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 반응형 상태 및 스트리밍 API</text>
+      <text x="20" y="142" fill="#A855F7" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">등급: 고내구성 (High Resilience)</text>
+    </g>
+
+    <g transform="translate(644, 24)">
+      <rect width="298" height="162" rx="12" fill="#0D1524" stroke="#10B981" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="#10B981" fill-opacity="0.2"/>
+      <text x="28" y="34" fill="#10B981" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" text-anchor="middle">🔒</text>
+      <text x="48" y="34" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">보안 및 무결성 배포</text>
+      <text x="20" y="70" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• DPAPI 토큰 암호화 &amp; No-Leak .env</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• AI attribution 없는 클린 Git 커밋</text>
+    <text x="20" y="118" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 엄격한 사전 검증 및 자동 CI/CD</text>
+      <text x="20" y="142" fill="#10B981" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">검증: 안전한 자율화 완료</text>
+    </g>
+</svg>

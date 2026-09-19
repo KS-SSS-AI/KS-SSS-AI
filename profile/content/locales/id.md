@@ -2,7 +2,7 @@
 
 <p>
   <picture>
-    <img src="../../assets/locales/id/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Arsitektur otonom & rekayasa full-stack" width="78%" />
+    <img src="../../assets/locales/id/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Arsitektur otonom &amp; rekayasa full-stack" width="78%" />
   </picture>
   <picture>
     <img src="../../assets/identity/avatar.gif" alt="KS-SSS-AI Animated Monogram" width="20%" />
@@ -35,7 +35,7 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">💡 Tentang & Filosofi Rekayasa</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">💡 Tentang &amp; Filosofi Rekayasa</h2></summary>
 
 Saya merancang dan membangun sistem perangkat lunak yang tangguh, alur kerja otonom cerdas, dan antarmuka ramah pengguna. Pendekatan saya berpusat pada inti Triple-S:
 
@@ -60,18 +60,18 @@ Saya merancang dan membangun sistem perangkat lunak yang tangguh, alur kerja oto
       <h4>🤖 Orkestrasi Agen Otonom</h4>
       <p><em>Alur kerja agen AI berkelanjutan, eksekusi alat runtime, dan rotasi kredensial multi-akun.</em></p>
       <ul>
-        <li><strong>Quota Failover</strong>: Zero-downtime automatic rotation across multiple accounts upon rate limit (429) triggers.</li>
-        <li><strong>Environment Isolation</strong>: Credential encapsulation via portable environment schemas and DPAPI-level guardrails.</li>
-        <li><strong>Chat-Driven Control</strong>: Remote command delegation bridges connecting Discord and Telegram to local agent engines.</li>
+        <li><strong>Failover Kuota</strong>: Rotasi otomatis multi-akun tanpa downtime saat mencapai batas rate limit (429).</li>
+        <li><strong>Isolasi Lingkungan</strong>: Enkapsulasi kredensial melalui skema portabel dan perlindungan DPAPI.</li>
+        <li><strong>Kontrol via Obrolan</strong>: Jembatan delegasi perintah menghubungkan Discord dan Telegram ke mesin lokal.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Sistem Tangguh Full-Stack & Cloud</h4>
+      <h4>🌐 Sistem Tangguh Full-Stack &amp; Cloud</h4>
       <p><em>Aplikasi web interaktif modern yang didukung oleh layanan backend asinkron berkinerja tinggi.</em></p>
       <ul>
-        <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
-        <li><strong>Microservices &amp; APIs</strong>: High-concurrency asynchronous backends utilizing Node.js, Python, and Go.</li>
-        <li><strong>Infrastructure as Code</strong>: Automated CI/CD pipelines, Docker containerization, and cloud deployment targets.</li>
+        <li><strong>Rekayasa Frontend</strong>: Antarmuka pengguna yang cepat dan mudah diakses berbasis React, Next.js, dan TypeScript.</li>
+        <li><strong>Layanan Mikro &amp; API</strong>: Layanan backend asinkron konkurensi tinggi yang dibangun dengan Node.js, Python, dan Go.</li>
+        <li><strong>Infrastruktur Kode</strong>: Otomatisasi CI/CD dengan GitHub Actions dan kontainerisasi Docker tanpa downtime.</li>
       </ul>
     </td>
   </tr>
@@ -82,13 +82,13 @@ Saya merancang dan membangun sistem perangkat lunak yang tangguh, alur kerja oto
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">⚡ Tumpukan Teknologi & Alat</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">⚡ Tumpukan Teknologi &amp; Alat</h2></summary>
 
 <br />
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/technology-stack.svg" alt="Technology Stack &amp; Tooling Matrix" width="100%" />
+    <img src="../../assets/locales/id/visuals/technology-stack.svg" alt="⚡ Tumpukan Teknologi &amp; Alat" width="100%" />
   </picture>
 </p>
 
@@ -97,19 +97,19 @@ Saya merancang dan membangun sistem perangkat lunak yang tangguh, alur kerja oto
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">📊 Dasbor Arsitektur & Metrik Pengiriman</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">📊 Dasbor Arsitektur &amp; Metrik Pengiriman</h2></summary>
 
 <br />
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/architecture-metrics.svg" alt="Architecture &amp; Delivery Metrics" width="100%" />
+    <img src="../../assets/locales/id/visuals/architecture-metrics.svg" alt="📊 Dasbor Arsitektur &amp; Metrik Pengiriman" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/workflow-pipeline.svg" alt="Autonomous Vibe Coding Pipeline" width="100%" />
+    <img src="../../assets/locales/id/visuals/workflow-pipeline.svg" alt="PIPELINE VIBE CODING OTONOM" width="100%" />
   </picture>
 </p>
 
@@ -117,7 +117,7 @@ Saya merancang dan membangun sistem perangkat lunak yang tangguh, alur kerja oto
 
 ---
 
-## 📬 Hubungi & Kolaborasi
+## 📬 Hubungi &amp; Kolaborasi
 
 Tertarik mendiskusikan arsitektur perangkat lunak otonom, kolaborasi teknis, atau desain sistem baru?
 

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="metBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A13"/>
+      <stop offset="100%" stop-color="#0E1626"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="980" height="210" rx="16" fill="url(#metBg)"/>
+  <rect x="1" y="1" width="978" height="208" rx="15" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  
+    <g transform="translate(24, 24)">
+      <rect width="298" height="162" rx="12" fill="#0D1524" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="#38BDF8" fill-opacity="0.2"/>
+      <text x="28" y="34" fill="#38BDF8" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" text-anchor="middle">⚡</text>
+      <text x="48" y="34" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">स्वायत्त कोर इंजन</text>
+      <text x="20" y="70" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• मल्टी-खाता 429 निरंतर फेलओवर</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• डायनामिक टोकन रीयल-टाइम इंजेक्शन</text>
+    <text x="20" y="118" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• निरंतर एजेंट स्वायत्त निष्पादन</text>
+      <text x="20" y="142" fill="#38BDF8" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">स्थिति: शून्य डाउनटाइम (Zero Downtime)</text>
+    </g>
+
+    <g transform="translate(334, 24)">
+      <rect width="298" height="162" rx="12" fill="#0D1524" stroke="#A855F7" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="#A855F7" fill-opacity="0.2"/>
+      <text x="28" y="34" fill="#A855F7" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" text-anchor="middle">🏛️</text>
+      <text x="48" y="34" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">सिस्टम वास्तुकला</text>
+      <text x="20" y="70" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• न्यूनतम कोड और YAGNI सिद्धांत</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• Zero-SPOF डिकपल्ड माइक्रोसर्विस</text>
+    <text x="20" y="118" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• प्रतिक्रियाशील स्टेट व स्ट्रीमिंग API</text>
+      <text x="20" y="142" fill="#A855F7" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">ग्रेड: उच्च लचीलापन (High Resilience)</text>
+    </g>
+
+    <g transform="translate(644, 24)">
+      <rect width="298" height="162" rx="12" fill="#0D1524" stroke="#10B981" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="#10B981" fill-opacity="0.2"/>
+      <text x="28" y="34" fill="#10B981" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" text-anchor="middle">🔒</text>
+      <text x="48" y="34" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">सुरक्षा और सुरक्षित डिलीवरी</text>
+      <text x="20" y="70" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• DPAPI एन्क्रिप्शन व सुरक्षित .env</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• एआई-एट्रिब्यूशन मुक्त गिट कमिट्स</text>
+    <text x="20" y="118" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• कठोर पूर्व-सत्यापन व स्वचालित CI/CD</text>
+      <text x="20" y="142" fill="#10B981" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">सत्यापित: सुरक्षित ऑटोमेशन संपन्न</text>
+    </g>
+</svg>

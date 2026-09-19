@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="metBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A13"/>
+      <stop offset="100%" stop-color="#0E1626"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="980" height="210" rx="16" fill="url(#metBg)"/>
+  <rect x="1" y="1" width="978" height="208" rx="15" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  
+    <g transform="translate(24, 24)">
+      <rect width="298" height="162" rx="12" fill="#0D1524" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="#38BDF8" fill-opacity="0.2"/>
+      <text x="28" y="34" fill="#38BDF8" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" text-anchor="middle">⚡</text>
+      <text x="48" y="34" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">自主智能核心</text>
+      <text x="20" y="70" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 多账户 429 无停机轮换</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 动态凭据即时注入</text>
+    <text x="20" y="118" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 持续智能体自主执行</text>
+      <text x="20" y="142" fill="#38BDF8" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">状态: 零故障持续运行</text>
+    </g>
+
+    <g transform="translate(334, 24)">
+      <rect width="298" height="162" rx="12" fill="#0D1524" stroke="#A855F7" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="#A855F7" fill-opacity="0.2"/>
+      <text x="28" y="34" fill="#A855F7" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" text-anchor="middle">🏛️</text>
+      <text x="48" y="34" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">系统架构理念</text>
+      <text x="20" y="70" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 最小代码与 YAGNI 哲学</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• Zero-SPOF 解耦微服务</text>
+    <text x="20" y="118" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 响应式状态与流式 API</text>
+      <text x="20" y="142" fill="#A855F7" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">评级: 极高工程弹性</text>
+    </g>
+
+    <g transform="translate(644, 24)">
+      <rect width="298" height="162" rx="12" fill="#0D1524" stroke="#10B981" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="28" cy="30" r="12" fill="#10B981" fill-opacity="0.2"/>
+      <text x="28" y="34" fill="#10B981" font-family="-apple-system, sans-serif" font-size="12" font-weight="800" text-anchor="middle">🔒</text>
+      <text x="48" y="34" fill="#F1F5F9" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">安全交付保障</text>
+      <text x="20" y="70" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• DPAPI 令牌加密与防泄漏 .env</text>
+    <text x="20" y="94" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 零 AI 署名纯净 Git 历史</text>
+    <text x="20" y="118" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="12">• 严苛事前验证与 CI/CD</text>
+      <text x="20" y="142" fill="#10B981" font-family="-apple-system, sans-serif" font-size="11" font-weight="600">验证: 生产级安全自动化</text>
+    </g>
+</svg>

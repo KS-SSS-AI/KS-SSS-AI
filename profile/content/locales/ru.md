@@ -60,18 +60,18 @@
       <h4>🤖 Оркестрация автономных агентов</h4>
       <p><em>Непрерывные рабочие процессы ИИ-агентов, запуск инструментов и автоматическая ротация токенов.</em></p>
       <ul>
-        <li><strong>Quota Failover</strong>: Zero-downtime automatic rotation across multiple accounts upon rate limit (429) triggers.</li>
-        <li><strong>Environment Isolation</strong>: Credential encapsulation via portable environment schemas and DPAPI-level guardrails.</li>
-        <li><strong>Chat-Driven Control</strong>: Remote command delegation bridges connecting Discord and Telegram to local agent engines.</li>
+        <li><strong>Отказоустойчивость квот</strong>: Автоматическая ротация нескольких аккаунтов без простоя при лимитах (429).</li>
+        <li><strong>Изоляция окружения</strong>: Инкапсуляция учетных записей через портативные схемы и DPAPI-защиту.</li>
+        <li><strong>Чат-управление</strong>: Мосты удаленного делегирования команд из Discord и Telegram к агентам.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Надежные Full-Stack и облачные системы</h4>
       <p><em>Современные интерактивные веб-приложения на базе высоконагруженных асинхронных сервисов.</em></p>
       <ul>
-        <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
-        <li><strong>Microservices &amp; APIs</strong>: High-concurrency asynchronous backends utilizing Node.js, Python, and Go.</li>
-        <li><strong>Infrastructure as Code</strong>: Automated CI/CD pipelines, Docker containerization, and cloud deployment targets.</li>
+        <li><strong>Фронтенд-инженерия</strong>: Быстрые и доступные интерфейсы на базе React, Next.js и TypeScript.</li>
+        <li><strong>Микросервисы и API</strong>: Высоконагруженные асинхронные сервисы на Node.js, Python и Go.</li>
+        <li><strong>Инфраструктура как код</strong>: CI/CD на GitHub Actions, контейнеры Docker и бесшовное развертывание.</li>
       </ul>
     </td>
   </tr>
@@ -88,7 +88,7 @@
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/technology-stack.svg" alt="Technology Stack &amp; Tooling Matrix" width="100%" />
+    <img src="../../assets/locales/ru/visuals/technology-stack.svg" alt="⚡ Стек технологий и инструментарий" width="100%" />
   </picture>
 </p>
 
@@ -103,13 +103,13 @@
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/architecture-metrics.svg" alt="Architecture &amp; Delivery Metrics" width="100%" />
+    <img src="../../assets/locales/ru/visuals/architecture-metrics.svg" alt="📊 Панель архитектуры и метрики надежности" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/workflow-pipeline.svg" alt="Autonomous Vibe Coding Pipeline" width="100%" />
+    <img src="../../assets/locales/ru/visuals/workflow-pipeline.svg" alt="АВТОНОМНЫЙ ПАЙПЛАЙН ВАЙБ-КОДИНГА" width="100%" />
   </picture>
 </p>
 

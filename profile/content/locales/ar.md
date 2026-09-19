@@ -60,18 +60,18 @@
       <h4>🤖 تنسيق الوكلاء المستقلين</h4>
       <p><em>سير عمل وكلاء الذكاء الاصطناعي المستمر وتدوير الرموز عبر حسابات متعددة بسلاسة.</em></p>
       <ul>
-        <li><strong>Quota Failover</strong>: Zero-downtime automatic rotation across multiple accounts upon rate limit (429) triggers.</li>
-        <li><strong>Environment Isolation</strong>: Credential encapsulation via portable environment schemas and DPAPI-level guardrails.</li>
-        <li><strong>Chat-Driven Control</strong>: Remote command delegation bridges connecting Discord and Telegram to local agent engines.</li>
+        <li><strong>تجاوز الفشل الآلي</strong>: تدوير تلقائي دون توقف بين عدة حسابات عند الوصول للحدود (429).</li>
+        <li><strong>عزل البيئة الصارم</strong>: حماية بيانات الاعتماد بواسطة مخططات بيئية وتشفير DPAPI.</li>
+        <li><strong>التحكم عبر الدردشة</strong>: جسور تحكم تربط ديسكورد وتيليجرام بمحركات الوكلاء المحلية.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 أنظمة المكدس الكامل والسحابة المرنة</h4>
       <p><em>تطبيقات ويب تفاعلية حديثة مدعومة بخدمات خلفية عالية التزامن والسرعة.</em></p>
       <ul>
-        <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
-        <li><strong>Microservices &amp; APIs</strong>: High-concurrency asynchronous backends utilizing Node.js, Python, and Go.</li>
-        <li><strong>Infrastructure as Code</strong>: Automated CI/CD pipelines, Docker containerization, and cloud deployment targets.</li>
+        <li><strong>هندسة الواجهات</strong>: واجهات مستخدم سريعة وسهلة الوصول مبنية بـ React و Next.js و TypeScript.</li>
+        <li><strong>الخدمات المصغرة</strong>: خدمات خلفية غير متزامنة عالية الأداء باستخدام Node.js و Python و Go.</li>
+        <li><strong>البنية كشيفرة</strong>: خطوط معالجة CI/CD مؤتمتة، حاويات Docker ونشر مستمر خالي من التوقف.</li>
       </ul>
     </td>
   </tr>
@@ -88,7 +88,7 @@
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/technology-stack.svg" alt="Technology Stack &amp; Tooling Matrix" width="100%" />
+    <img src="../../assets/locales/ar/visuals/technology-stack.svg" alt="⚡ مجموعة التقنيات والأدوات" width="100%" />
   </picture>
 </p>
 
@@ -103,13 +103,13 @@
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/architecture-metrics.svg" alt="Architecture &amp; Delivery Metrics" width="100%" />
+    <img src="../../assets/locales/ar/visuals/architecture-metrics.svg" alt="📊 لوحة تحكم البنية ومؤشرات الأداء" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/workflow-pipeline.svg" alt="Autonomous Vibe Coding Pipeline" width="100%" />
+    <img src="../../assets/locales/ar/visuals/workflow-pipeline.svg" alt="مسار البرمجة التلقائية المستقلة (VIBE PIPELINE)" width="100%" />
   </picture>
 </p>
 

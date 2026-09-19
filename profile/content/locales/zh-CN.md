@@ -60,18 +60,18 @@
       <h4>🤖 自主智能体编排</h4>
       <p><em>持续的 AI 代理工作流、工具调用运行时与多凭据令牌无缝轮换。</em></p>
       <ul>
-        <li><strong>Quota Failover</strong>: Zero-downtime automatic rotation across multiple accounts upon rate limit (429) triggers.</li>
-        <li><strong>Environment Isolation</strong>: Credential encapsulation via portable environment schemas and DPAPI-level guardrails.</li>
-        <li><strong>Chat-Driven Control</strong>: Remote command delegation bridges connecting Discord and Telegram to local agent engines.</li>
+        <li><strong>配额故障转移</strong>: 达到 429 速率限制时实现多账户零停机自动无缝轮换。</li>
+        <li><strong>环境安全隔离</strong>: 便携式环境模式与 DPAPI 凭据封装，杜绝敏感泄露。</li>
+        <li><strong>聊天驱动控制</strong>: 通过 Discord 与 Telegram 连接本地智能体引擎的远程委托桥梁。</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 弹性全栈与云原生系统</h4>
       <p><em>由高并发异步后端驱动的现代敏捷 Web 应用程序。</em></p>
       <ul>
-        <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
-        <li><strong>Microservices &amp; APIs</strong>: High-concurrency asynchronous backends utilizing Node.js, Python, and Go.</li>
-        <li><strong>Infrastructure as Code</strong>: Automated CI/CD pipelines, Docker containerization, and cloud deployment targets.</li>
+        <li><strong>前端工程设计</strong>: 基于 React、Next.js 与 TypeScript 构建的高效无障碍界面。</li>
+        <li><strong>微服务与接口</strong>: 基于 Node.js、Python 与 Go 的高并发异步后端服务管道。</li>
+        <li><strong>基础设施即代码</strong>: GitHub Actions 持续交付流水线与 Docker 容器化零停机部署。</li>
       </ul>
     </td>
   </tr>
@@ -88,7 +88,7 @@
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/technology-stack.svg" alt="Technology Stack &amp; Tooling Matrix" width="100%" />
+    <img src="../../assets/locales/zh-CN/visuals/technology-stack.svg" alt="⚡ 技术栈与工具矩阵" width="100%" />
   </picture>
 </p>
 
@@ -103,13 +103,13 @@
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/architecture-metrics.svg" alt="Architecture &amp; Delivery Metrics" width="100%" />
+    <img src="../../assets/locales/zh-CN/visuals/architecture-metrics.svg" alt="📊 架构仪表板与交付指标" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/workflow-pipeline.svg" alt="Autonomous Vibe Coding Pipeline" width="100%" />
+    <img src="../../assets/locales/zh-CN/visuals/workflow-pipeline.svg" alt="自主 VIBE CODING 流水线" width="100%" />
   </picture>
 </p>
 

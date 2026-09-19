@@ -16,27 +16,21 @@
   <rect width="900" height="190" class="term-bg"/>
   <rect width="900" height="34" rx="12" class="term-header"/>
   
-  <!-- Window Controls -->
   <circle cx="24" cy="17" r="6" fill="#EF4444"/>
   <circle cx="44" cy="17" r="6" fill="#F59E0B"/>
   <circle cx="64" cy="17" r="6" fill="#10B981"/>
   <text x="450" y="22" fill="#64748B" font-family="-apple-system, sans-serif" font-size="12" text-anchor="middle">ks-sss-ai@node [id] ~ zsh</text>
 
-  <!-- Terminal Content -->
   <g transform="translate(24, 66)">
-    <!-- Line 1: Command -->
     <text x="0" y="0" class="text-prompt">❯ </text>
     <text x="20" y="0" class="text-cmd">ks-sss-ai --init-agent --mode=autonomous-vibe --lang=id</text>
     
-    <!-- Line 2: Output -->
     <text x="0" y="28" class="text-out">[+] <tspan class="text-highlight">Mesin Inti: Node.js / TypeScript / Python / Go — Online</tspan></text>
     
-    <!-- Line 3: Output -->
     <text x="0" y="54" class="text-out">[+] <tspan class="text-accent">Arsitektur: Failover Multi-Node / Multi-Akun Zero-SPOF — Siap</tspan></text>
 
-    <!-- Line 4: Next Prompt + Cursor -->
+    <!-- Line 4 with INLINE CURSOR (Never overlaps) -->
     <text x="0" y="84" class="text-prompt">❯ </text>
-    <text x="20" y="84" class="text-cmd">siap membangun sistem generasi berikutnya </text>
-    <rect x="376.5" y="70" width="9" height="17" class="cursor"/>
+    <text x="20" y="84" class="text-cmd">siap membangun sistem generasi berikutnya<tspan class="cursor"> █</tspan></text>
   </g>
 </svg>

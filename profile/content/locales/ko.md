@@ -60,18 +60,18 @@
       <h4>🤖 자율 에이전트 오케스트레이션</h4>
       <p><em>지속적인 에이전트 워크플로, 툴 호출 런타임 및 다중 계정 자격증명 자동 로테이션.</em></p>
       <ul>
-        <li><strong>Quota Failover</strong>: Zero-downtime automatic rotation across multiple accounts upon rate limit (429) triggers.</li>
-        <li><strong>Environment Isolation</strong>: Credential encapsulation via portable environment schemas and DPAPI-level guardrails.</li>
-        <li><strong>Chat-Driven Control</strong>: Remote command delegation bridges connecting Discord and Telegram to local agent engines.</li>
+        <li><strong>쿼터 페일오버</strong>: 429 한도 도달 시 무중단 다중 계정 자동 전환 아키텍처 구축.</li>
+        <li><strong>환경 격리 보장</strong>: 포터블 환경 스키마와 DPAPI 기반 자격증명 캡슐화로 유출 차단.</li>
+        <li><strong>채팅 원격 제어</strong>: 디스코드 및 텔레그램을 로컬 에이전트 엔진과 연결하는 브릿지 제공.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 풀스택 및 클라우드 시스템</h4>
+      <h4>🌐 고가용성 풀스택 및 클라우드 시스템</h4>
       <p><em>고처리량 백엔드 서비스와 결합된 반응형 고성능 인터페이스 구축.</em></p>
       <ul>
-        <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
-        <li><strong>Microservices &amp; APIs</strong>: High-concurrency asynchronous backends utilizing Node.js, Python, and Go.</li>
-        <li><strong>Infrastructure as Code</strong>: Automated CI/CD pipelines, Docker containerization, and cloud deployment targets.</li>
+        <li><strong>프론트엔드 엔지니어링</strong>: React, Next.js, TypeScript 기반의 빠르고 접근성 높은 UI 설계.</li>
+        <li><strong>마이크로서비스 및 API</strong>: Node.js, Python, Go 기반의 고동시성 비동기 백엔드 파이프라인.</li>
+        <li><strong>코드형 인프라 (IaC)</strong>: GitHub Actions 자동화 CI/CD 및 Docker 컨테이너 무중단 배포.</li>
       </ul>
     </td>
   </tr>
@@ -88,7 +88,7 @@
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/technology-stack.svg" alt="Technology Stack &amp; Tooling Matrix" width="100%" />
+    <img src="../../assets/locales/ko/visuals/technology-stack.svg" alt="⚡ 기술 스택 및 도구 매트릭스" width="100%" />
   </picture>
 </p>
 
@@ -103,13 +103,13 @@
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/architecture-metrics.svg" alt="Architecture &amp; Delivery Metrics" width="100%" />
+    <img src="../../assets/locales/ko/visuals/architecture-metrics.svg" alt="📊 아키텍처 대시보드 및 배포 지표" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/workflow-pipeline.svg" alt="Autonomous Vibe Coding Pipeline" width="100%" />
+    <img src="../../assets/locales/ko/visuals/workflow-pipeline.svg" alt="자율 바이브 코딩 파이프라인 (AUTONOMOUS VIBE PIPELINE)" width="100%" />
   </picture>
 </p>
 

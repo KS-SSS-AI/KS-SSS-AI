@@ -60,18 +60,18 @@ Je conçois et développe des systèmes logiciels résilients, des pipelines aut
       <h4>🤖 Orchestration d’agents autonomes</h4>
       <p><em>Flux de travail continus d’agents IA, exécution d’outils et rotation transparente des identifiants.</em></p>
       <ul>
-        <li><strong>Quota Failover</strong>: Zero-downtime automatic rotation across multiple accounts upon rate limit (429) triggers.</li>
-        <li><strong>Environment Isolation</strong>: Credential encapsulation via portable environment schemas and DPAPI-level guardrails.</li>
-        <li><strong>Chat-Driven Control</strong>: Remote command delegation bridges connecting Discord and Telegram to local agent engines.</li>
+        <li><strong>Bascule de Quota</strong>: Rotation automatique transparente multi-comptes lors des limites de requêtes (429).</li>
+        <li><strong>Isolation d’Environnement</strong>: Protection stricte des identifiants via schémas portables et chiffrement DPAPI.</li>
+        <li><strong>Contrôle par Messagerie</strong>: Passerelles de commande reliant Discord et Telegram aux moteurs locaux.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Systèmes résilients Full-Stack et Cloud</h4>
       <p><em>Applications web interactives modernes propulsées par des services backend asynchrones à haute concurrence.</em></p>
       <ul>
-        <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
-        <li><strong>Microservices &amp; APIs</strong>: High-concurrency asynchronous backends utilizing Node.js, Python, and Go.</li>
-        <li><strong>Infrastructure as Code</strong>: Automated CI/CD pipelines, Docker containerization, and cloud deployment targets.</li>
+        <li><strong>Ingénierie Frontend</strong>: Interfaces réactives et accessibles conçues avec React, Next.js et TypeScript.</li>
+        <li><strong>Microservices &amp; APIs</strong>: Backends asynchrones haute performance développés en Node.js, Python et Go.</li>
+        <li><strong>Infrastructure as Code</strong>: Pipelines CI/CD automatisés, conteneurs Docker et déploiement continu sans coupure.</li>
       </ul>
     </td>
   </tr>
@@ -88,7 +88,7 @@ Je conçois et développe des systèmes logiciels résilients, des pipelines aut
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/technology-stack.svg" alt="Technology Stack &amp; Tooling Matrix" width="100%" />
+    <img src="../../assets/locales/fr/visuals/technology-stack.svg" alt="⚡ Stack technologique et outils" width="100%" />
   </picture>
 </p>
 
@@ -103,13 +103,13 @@ Je conçois et développe des systèmes logiciels résilients, des pipelines aut
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/architecture-metrics.svg" alt="Architecture &amp; Delivery Metrics" width="100%" />
+    <img src="../../assets/locales/fr/visuals/architecture-metrics.svg" alt="📊 Tableau de bord d’architecture et métriques" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/workflow-pipeline.svg" alt="Autonomous Vibe Coding Pipeline" width="100%" />
+    <img src="../../assets/locales/fr/visuals/workflow-pipeline.svg" alt="PIPELINE AUTONOME DE VIBE CODING" width="100%" />
   </picture>
 </p>
 

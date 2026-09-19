@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 370" width="100%" height="100%">
+  <defs>
+    <linearGradient id="stackBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A13"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <pattern id="stackGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E293B" stroke-width="0.5" stroke-opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <rect width="1040" height="370" rx="16" fill="url(#stackBg)"/>
+  <rect width="1040" height="370" rx="16" fill="url(#stackGrid)"/>
+  <rect x="1" y="1" width="1038" height="368" rx="15" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  <g transform="translate(36, 32)">
+    <text x="0" y="0" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">⚡ ⚡ प्रौद्योगिकी स्टैक और उपकरण</text>
+    <text x="350" y="0" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400">स्व-होस्टेड मूल वेक्टर बैज — शून्य तृतीय-पक्ष रनटाइम निर्भरता</text>
+  </g>
+
+  
+    <g transform="translate(0, 0)">
+      <line x1="30" y1="66" x2="1010" y2="66" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="4 4" opacity="0.4"/>
+      <rect x="36" y="52" width="245" height="28" rx="6" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="50" cy="66" r="3.5" fill="#38BDF8"/>
+      <text x="62" y="70" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">प्रोग्रामिंग भाषाएं और रनटाइम</text>
+      
+      <g transform="translate(295, 52)">
+        <rect width="112" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#3178C6"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">TypeScript</text>
+      </g>
+      <g transform="translate(415, 52)">
+        <rect width="112" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#F7DF1E"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">JavaScript</text>
+      </g>
+      <g transform="translate(535, 52)">
+        <rect width="79.19999999999999" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#3776AB"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Python</text>
+      </g>
+      <g transform="translate(622.2, 52)">
+        <rect width="46.4" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#00ADD8"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Go</text>
+      </g>
+      <g transform="translate(676.6, 52)">
+        <rect width="62.8" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#4EAA25"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Bash</text>
+      </g>
+      <g transform="translate(747.4, 52)">
+        <rect width="54.599999999999994" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#E38C00"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">SQL</text>
+      </g>
+    </g>
+    <g transform="translate(0, 0)">
+      <line x1="30" y1="122" x2="1010" y2="122" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="4 4" opacity="0.4"/>
+      <rect x="36" y="108" width="245" height="28" rx="6" fill="#A855F7" fill-opacity="0.12" stroke="#A855F7" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="50" cy="122" r="3.5" fill="#A855F7"/>
+      <text x="62" y="126" fill="#A855F7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">फ़्रंटएंड और यूआई इंटरफेस</text>
+      
+      <g transform="translate(295, 108)">
+        <rect width="71" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#61DAFB"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">React</text>
+      </g>
+      <g transform="translate(374, 108)">
+        <rect width="87.39999999999999" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#FFFFFF"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Next.js</text>
+      </g>
+      <g transform="translate(469.4, 108)">
+        <rect width="128.39999999999998" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#38B2AC"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Tailwind CSS</text>
+      </g>
+      <g transform="translate(605.8, 108)">
+        <rect width="62.8" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#646CFF"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Vite</text>
+      </g>
+      <g transform="translate(676.5999999999999, 108)">
+        <rect width="128.39999999999998" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#E34F26"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">HTML5 / CSS3</text>
+      </g>
+      <g transform="translate(812.9999999999999, 108)">
+        <rect width="144.79999999999998" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#29B6F6"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Web Components</text>
+      </g>
+    </g>
+    <g transform="translate(0, 0)">
+      <line x1="30" y1="178" x2="1010" y2="178" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="4 4" opacity="0.4"/>
+      <rect x="36" y="164" width="245" height="28" rx="6" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="50" cy="178" r="3.5" fill="#10B981"/>
+      <text x="62" y="182" fill="#10B981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">बैकएंड और वितरित सेवाएं</text>
+      
+      <g transform="translate(295, 164)">
+        <rect width="87.39999999999999" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#339933"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Node.js</text>
+      </g>
+      <g transform="translate(390.4, 164)">
+        <rect width="87.39999999999999" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#009688"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">FastAPI</text>
+      </g>
+      <g transform="translate(485.79999999999995, 164)">
+        <rect width="87.39999999999999" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#AAAAAA"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Express</text>
+      </g>
+      <g transform="translate(581.1999999999999, 164)">
+        <rect width="87.39999999999999" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#E10098"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">GraphQL</text>
+      </g>
+      <g transform="translate(676.5999999999999, 164)">
+        <rect width="103.8" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#0080FF"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">REST APIs</text>
+      </g>
+      <g transform="translate(788.3999999999999, 164)">
+        <rect width="112" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#F05032"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">WebSockets</text>
+      </g>
+    </g>
+    <g transform="translate(0, 0)">
+      <line x1="30" y1="234" x2="1010" y2="234" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="4 4" opacity="0.4"/>
+      <rect x="36" y="220" width="245" height="28" rx="6" fill="#F59E0B" fill-opacity="0.12" stroke="#F59E0B" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="50" cy="234" r="3.5" fill="#F59E0B"/>
+      <text x="62" y="238" fill="#F59E0B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">डेटा और स्टेट पर्सिस्टेंस</text>
+      
+      <g transform="translate(295, 220)">
+        <rect width="112" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#4169E1"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">PostgreSQL</text>
+      </g>
+      <g transform="translate(415, 220)">
+        <rect width="71" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#DC382D"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Redis</text>
+      </g>
+      <g transform="translate(494, 220)">
+        <rect width="79.19999999999999" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#2D3748"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Prisma</text>
+      </g>
+      <g transform="translate(581.2, 220)">
+        <rect width="87.39999999999999" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#47A248"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">MongoDB</text>
+      </g>
+      <g transform="translate(676.6, 220)">
+        <rect width="79.19999999999999" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#003B57"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">SQLite</text>
+      </g>
+    </g>
+    <g transform="translate(0, 0)">
+      <line x1="30" y1="290" x2="1010" y2="290" stroke="#1E293B" stroke-width="0.7" stroke-dasharray="4 4" opacity="0.4"/>
+      <rect x="36" y="276" width="245" height="28" rx="6" fill="#EC4899" fill-opacity="0.12" stroke="#EC4899" stroke-opacity="0.3" stroke-width="1"/>
+      <circle cx="50" cy="290" r="3.5" fill="#EC4899"/>
+      <text x="62" y="294" fill="#EC4899" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.3">डेवऑप्स और स्वायत्त ऑटोमेशन</text>
+      
+      <g transform="translate(295, 276)">
+        <rect width="79.19999999999999" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#2496ED"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Docker</text>
+      </g>
+      <g transform="translate(382.2, 276)">
+        <rect width="144.79999999999998" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#2088FF"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">GitHub Actions</text>
+      </g>
+      <g transform="translate(535, 276)">
+        <rect width="54.599999999999994" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#F05032"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Git</text>
+      </g>
+      <g transform="translate(597.6, 276)">
+        <rect width="144.79999999999998" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#FCC624"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Linux / Ubuntu</text>
+      </g>
+      <g transform="translate(750.4, 276)">
+        <rect width="194" height="28" rx="14" fill="#131B2E" stroke="#1E293B" stroke-width="1"/>
+        <circle cx="14" cy="14" r="4" fill="#A855F7"/>
+        <text x="24" y="18" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Multi-Account Runner</text>
+      </g>
+    </g>
+</svg>

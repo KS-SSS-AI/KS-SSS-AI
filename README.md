@@ -2,7 +2,7 @@
 
 <p>
   <picture>
-    <img src="./profile/assets/locales/en/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Autonomous Architectures & Full-Stack Engineering" width="78%" />
+    <img src="./profile/assets/locales/en/identity/hero.svg" alt="KS-SSS-AI — Speed · Scale · Security — Autonomous Architectures &amp; Full-Stack Engineering" width="78%" />
   </picture>
   <picture>
     <img src="./profile/assets/identity/avatar.gif" alt="KS-SSS-AI Animated Monogram" width="20%" />
@@ -35,7 +35,7 @@
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">💡 About & Engineering Ethos</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">💡 About &amp; Engineering Ethos</h2></summary>
 
 I design and build resilient software systems, intelligent autonomous pipelines, and user-centric interfaces. My approach centers on the Triple-S Core:
 
@@ -52,7 +52,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">🚀 Featured Capabilities & Architectures</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">🚀 Featured Capabilities &amp; Architectures</h2></summary>
 
 <table>
   <tr>
@@ -66,7 +66,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Resilient Full-Stack & Cloud Systems</h4>
+      <h4>🌐 Resilient Full-Stack &amp; Cloud Systems</h4>
       <p><em>Modern interactive web applications powered by high-throughput backend services.</em></p>
       <ul>
         <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
@@ -82,13 +82,13 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">⚡ Technology Stack & Tooling</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">⚡ Technology Stack &amp; Tooling</h2></summary>
 
 <br />
 
 <p align="center">
   <picture>
-    <img src="./profile/assets/visuals/technology-stack.svg" alt="Technology Stack &amp; Tooling Matrix" width="100%" />
+    <img src="./profile/assets/locales/en/visuals/technology-stack.svg" alt="⚡ Technology Stack &amp; Tooling" width="100%" />
   </picture>
 </p>
 
@@ -97,19 +97,19 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 ---
 
 <details>
-<summary><h2 style="display:inline-block; margin:0;">📊 Architecture Dashboard & Delivery Metrics</h2></summary>
+<summary><h2 style="display:inline-block; margin:0;">📊 Architecture Dashboard &amp; Delivery Metrics</h2></summary>
 
 <br />
 
 <p align="center">
   <picture>
-    <img src="./profile/assets/visuals/architecture-metrics.svg" alt="Architecture &amp; Delivery Metrics" width="100%" />
+    <img src="./profile/assets/locales/en/visuals/architecture-metrics.svg" alt="📊 Architecture Dashboard &amp; Delivery Metrics" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <img src="./profile/assets/visuals/workflow-pipeline.svg" alt="Autonomous Vibe Coding Pipeline" width="100%" />
+    <img src="./profile/assets/locales/en/visuals/workflow-pipeline.svg" alt="AUTONOMOUS VIBE CODING PIPELINE" width="100%" />
   </picture>
 </p>
 
@@ -117,7 +117,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 
 ---
 
-## 📬 Connect & Collaborate
+## 📬 Connect &amp; Collaborate
 
 Interested in discussing autonomous software architectures, engineering collaboration, or innovative system designs?
 

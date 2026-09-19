@@ -60,18 +60,18 @@ Diseño y construyo sistemas de software resistentes, canalizaciones autónomas 
       <h4>🤖 Orquestación de agentes autónomos</h4>
       <p><em>Flujos de trabajo de agentes de IA continuos, tiempo de ejecución de herramientas y rotación de tokens.</em></p>
       <ul>
-        <li><strong>Quota Failover</strong>: Zero-downtime automatic rotation across multiple accounts upon rate limit (429) triggers.</li>
-        <li><strong>Environment Isolation</strong>: Credential encapsulation via portable environment schemas and DPAPI-level guardrails.</li>
-        <li><strong>Chat-Driven Control</strong>: Remote command delegation bridges connecting Discord and Telegram to local agent engines.</li>
+        <li><strong>Conmutación por error</strong>: Rotación automática sin tiempo de inactividad entre múltiples cuentas ante límites (429).</li>
+        <li><strong>Aislamiento de entorno</strong>: Encapsulación de credenciales mediante esquemas portátiles y protección DPAPI.</li>
+        <li><strong>Control vía chat</strong>: Puentes de delegación remota que conectan Discord y Telegram con agentes locales.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Sistemas resilientes full-stack y cloud</h4>
       <p><em>Aplicaciones web modernas interactivas impulsadas por servicios backend de alta concurrencia.</em></p>
       <ul>
-        <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
-        <li><strong>Microservices &amp; APIs</strong>: High-concurrency asynchronous backends utilizing Node.js, Python, and Go.</li>
-        <li><strong>Infrastructure as Code</strong>: Automated CI/CD pipelines, Docker containerization, and cloud deployment targets.</li>
+        <li><strong>Ingeniería Frontend</strong>: Interfaces accesibles y ultrarrápidas construidas con React, Next.js y TypeScript.</li>
+        <li><strong>Microservicios y APIs</strong>: Servicios asíncronos de alta concurrencia desarrollados en Node.js, Python y Go.</li>
+        <li><strong>Infraestructura como código</strong>: Pipelines automatizados de CI/CD, contenedores Docker y despliegue continuo.</li>
       </ul>
     </td>
   </tr>
@@ -88,7 +88,7 @@ Diseño y construyo sistemas de software resistentes, canalizaciones autónomas 
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/technology-stack.svg" alt="Technology Stack &amp; Tooling Matrix" width="100%" />
+    <img src="../../assets/locales/es/visuals/technology-stack.svg" alt="⚡ Pila tecnológica y herramientas" width="100%" />
   </picture>
 </p>
 
@@ -103,13 +103,13 @@ Diseño y construyo sistemas de software resistentes, canalizaciones autónomas 
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/architecture-metrics.svg" alt="Architecture &amp; Delivery Metrics" width="100%" />
+    <img src="../../assets/locales/es/visuals/architecture-metrics.svg" alt="📊 Panel de arquitectura y métricas de entrega" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/workflow-pipeline.svg" alt="Autonomous Vibe Coding Pipeline" width="100%" />
+    <img src="../../assets/locales/es/visuals/workflow-pipeline.svg" alt="PIPELINE AUTÓNOMO DE VIBE CODING" width="100%" />
   </picture>
 </p>
 

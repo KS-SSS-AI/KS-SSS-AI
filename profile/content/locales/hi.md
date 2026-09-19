@@ -60,18 +60,18 @@
       <h4>🤖 स्वायत्त एजेंट ऑर्केस्ट्रेशन</h4>
       <p><em>निरंतर एआई एजेंट वर्कफ़्लो, टूल निष्पादन और स्वचालित मल्टी-खाता टोकन रोटेशन।</em></p>
       <ul>
-        <li><strong>Quota Failover</strong>: Zero-downtime automatic rotation across multiple accounts upon rate limit (429) triggers.</li>
-        <li><strong>Environment Isolation</strong>: Credential encapsulation via portable environment schemas and DPAPI-level guardrails.</li>
-        <li><strong>Chat-Driven Control</strong>: Remote command delegation bridges connecting Discord and Telegram to local agent engines.</li>
+        <li><strong>कोटा विफलता निवारण</strong>: 429 सीमा पर बहु-खातों में शून्य-डाउनटाइम स्वचालित रोटेशन वास्तुकला।</li>
+        <li><strong>पर्यावरण अलगाव</strong>: सुरक्षित स्कीमा और DPAPI द्वारा क्रेडेंशियल सुरक्षा जिससे रिसाव न हो।</li>
+        <li><strong>चैट-नियंत्रित वर्कफ़्लो</strong>: डिस्कॉर्ड और टेलीग्राम से स्थानीय एजेंट इंजन को नियंत्रित करने वाले ब्रिज।</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 लचीला फुल-स्टैक और क्लाउड सिस्टम</h4>
       <p><em>उच्च-संवर्ती बैकएंड सेवाओं द्वारा संचालित आधुनिक वेब अनुप्रयोग।</em></p>
       <ul>
-        <li><strong>Frontend Engineering</strong>: Fast, accessible client interfaces built with React, Next.js, and TypeScript.</li>
-        <li><strong>Microservices &amp; APIs</strong>: High-concurrency asynchronous backends utilizing Node.js, Python, and Go.</li>
-        <li><strong>Infrastructure as Code</strong>: Automated CI/CD pipelines, Docker containerization, and cloud deployment targets.</li>
+        <li><strong>फ्रंटएंड इंजीनियरिंग</strong>: React, Next.js और TypeScript पर आधारित तीव्र और सुलभ यूजर इंटरफेस।</li>
+        <li><strong>माइक्रोसर्विस और API</strong>: Node.js, Python और Go पर निर्मित उच्च-संवर्ती अतुल्यकालिक बैकएंड सेवाएँ।</li>
+        <li><strong>इन्फ्रास्ट्रक्चर एज़ कोड</strong>: GitHub Actions स्वचालित CI/CD और Docker कंटेनर निरंतर तैनाती।</li>
       </ul>
     </td>
   </tr>
@@ -88,7 +88,7 @@
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/technology-stack.svg" alt="Technology Stack &amp; Tooling Matrix" width="100%" />
+    <img src="../../assets/locales/hi/visuals/technology-stack.svg" alt="⚡ प्रौद्योगिकी स्टैक और उपकरण" width="100%" />
   </picture>
 </p>
 
@@ -103,13 +103,13 @@
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/architecture-metrics.svg" alt="Architecture &amp; Delivery Metrics" width="100%" />
+    <img src="../../assets/locales/hi/visuals/architecture-metrics.svg" alt="📊 आर्किटेक्चर डैशबोर्ड और मेट्रिक्स" width="100%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <img src="../../assets/visuals/workflow-pipeline.svg" alt="Autonomous Vibe Coding Pipeline" width="100%" />
+    <img src="../../assets/locales/hi/visuals/workflow-pipeline.svg" alt="स्वायत्त वाइब कोडिंग पाइपलाइन" width="100%" />
   </picture>
 </p>
 
