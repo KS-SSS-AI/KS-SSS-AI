@@ -8,8 +8,8 @@
       .text-out { font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace; font-size: 13px; fill: #94A3B8; }
       .text-highlight { fill: #10B981; font-weight: 600; }
       .text-accent { fill: #C084FC; font-weight: 600; }
-      .cursor { fill: #38BDF8; animation: blink 1s step-end infinite; }
-      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      .cursor { fill: #38BDF8; font-weight: 600; animation: blink 1s infinite; }
+      @keyframes blink { 0%, 49.9% { opacity: 1; } 50%, 100% { opacity: 0; } }
     </style>
   </defs>
 
@@ -29,8 +29,8 @@
     
     <text x="0" y="54" class="text-out">[+] <tspan class="text-accent">아키텍처: Zero-SPOF 멀티 노드 / 다중 계정 페일오버 — 준비 완료</tspan></text>
 
-    <!-- Line 4 with INLINE CURSOR (Never overlaps) -->
+    <!-- Line 4 with INLINE BLINKING PIPE CURSOR (Never overlaps) -->
     <text x="0" y="84" class="text-prompt">❯ </text>
-    <text x="20" y="84" class="text-cmd">차세대 시스템을 구축할 준비가 되었습니다<tspan class="cursor"> █</tspan></text>
+    <text x="20" y="84" class="text-cmd">차세대 시스템을 구축할 준비가 되었습니다<tspan class="cursor"> |<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></tspan></text>
   </g>
 </svg>
