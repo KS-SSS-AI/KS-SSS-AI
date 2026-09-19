@@ -26,10 +26,6 @@
   <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
 </p>
 
-<p align="center">
-  <img src="../../assets/locales/fr/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
-</p>
-
 </div>
 
 ---
@@ -38,6 +34,12 @@
 <summary><h2 style="display:inline-block; margin:0;">💡 Philosophie d’ingénierie</h2></summary>
 
 Je conçois et développe des systèmes logiciels résilients, des pipelines autonomes intelligents et des interfaces centrées sur l’utilisateur. Mon approche repose sur le socle Triple-S :
+
+<p align="center">
+  <picture>
+    <img src="../../assets/locales/fr/motion/typing.gif" alt="Animation de frappe: Systèmes Résilients, Pipelines Autonomes, Vitesse · Échelle · Sécurité" width="100%" />
+  </picture>
+</p>
 
 - **⚡ Speed** — Prototypage sans friction, code minimal et boucles d’agents autonomes transformant les idées en livrables vérifiés.
 - **🏛️ Scale** — Architectures découplées, services sans état et topologies multi-nœuds sans point unique de défaillance (Zero-SPOF).

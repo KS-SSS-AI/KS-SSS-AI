@@ -26,10 +26,6 @@
   <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
 </p>
 
-<p align="center">
-  <img src="../../assets/locales/es/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
-</p>
-
 </div>
 
 ---
@@ -38,6 +34,12 @@
 <summary><h2 style="display:inline-block; margin:0;">💡 Acerca de y filosofía de ingeniería</h2></summary>
 
 Diseño y construyo sistemas de software resistentes, canalizaciones autónomas inteligentes e interfaces centradas en el usuario. Mi enfoque se centra en el núcleo Triple-S:
+
+<p align="center">
+  <picture>
+    <img src="../../assets/locales/es/motion/typing.gif" alt="Animación de escritura: Sistemas Resilientes, Pipelines Autónomos, Velocidad · Escala · Seguridad" width="100%" />
+  </picture>
+</p>
 
 - **⚡ Speed** — Prototipado sin fricciones, paradigmas de código mínimo y bucles de agentes que convierten la intención en código verificado.
 - **🏛️ Scale** — Arquitecturas desacopladas limpias, servicios sin estado y topologías multinodo sin SPOF.

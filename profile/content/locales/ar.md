@@ -26,10 +26,6 @@
   <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
 </p>
 
-<p align="center">
-  <img src="../../assets/locales/ar/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
-</p>
-
 </div>
 
 ---
@@ -38,6 +34,12 @@
 <summary><h2 style="display:inline-block; margin:0;">💡 حول وفلسفة الهندسة</h2></summary>
 
 أصمم وأبني أنظمة برمجية مرنة وسير عمل مستقل ذكي وواجهات تركز على المستخدم. يعتمد نهجي على جوهر Triple-S:
+
+<p align="center">
+  <picture>
+    <img src="../../assets/locales/ar/motion/typing.gif" alt="تأثير الكتابة: أنظمة مرنة وقوية، مسارات عمل ذاتية القيادة، السرعة · التوسع · الأمان" width="100%" />
+  </picture>
+</p>
 
 - **⚡ Speed** — نماذج أولية فورية بدون احتكاك، وحد أدنى من الشيفرة البرمجية لتحويل الأفكار إلى نتائج موثوقة.
 - **🏛️ Scale** — بنى نظيفة ومفصولة وخدمات عديمة الحالة وطوبولوجيا متعددة العقد خالية من نقاط الفشل الفردية.

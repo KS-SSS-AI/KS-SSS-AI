@@ -26,10 +26,6 @@
   <img src="./profile/assets/badges/badge-stack.svg" alt="Stack" />
 </p>
 
-<p align="center">
-  <img src="./profile/assets/locales/en/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
-</p>
-
 </div>
 
 ---
@@ -38,6 +34,12 @@
 <summary><h2 style="display:inline-block; margin:0;">💡 About &amp; Engineering Ethos</h2></summary>
 
 I design and build resilient software systems, intelligent autonomous pipelines, and user-centric interfaces. My approach centers on the Triple-S Core:
+
+<p align="center">
+  <picture>
+    <img src="./profile/assets/locales/en/motion/typing.gif" alt="Typing Animation: Resilient Systems, Autonomous Pipelines, Speed · Scale · Security" width="100%" />
+  </picture>
+</p>
 
 - **⚡ Speed** — Zero-friction prototyping, minimal code paradigms, and autonomous agent loops that turn intent into verified deliverables instantly.
 - **🏛️ Scale** — Clean decoupled architectures, stateless services, and zero-SPOF multi-node topologies built to expand gracefully.

@@ -26,10 +26,6 @@
   <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
 </p>
 
-<p align="center">
-  <img src="../../assets/locales/hi/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
-</p>
-
 </div>
 
 ---
@@ -38,6 +34,12 @@
 <summary><h2 style="display:inline-block; margin:0;">💡 परिचय एवं इंजीनियरिंग सिद्धांत</h2></summary>
 
 मैं लचीले सॉफ्टवेयर सिस्टम, स्वायत्त पाइपलाइन और उपयोगकर्ता-केंद्रित इंटरफेस डिजाइन और विकसित करता हूँ। मेरा दृष्टिकोण ट्रिपल-एस (Triple-S) पर केंद्रित है:
+
+<p align="center">
+  <picture>
+    <img src="../../assets/locales/hi/motion/typing.gif" alt="टाइपिंग प्रभाव: लचीले सिस्टम, स्वायत्त पाइपलाइन, गति · पैमाना · सुरक्षा" width="100%" />
+  </picture>
+</p>
 
 - **⚡ Speed** — शून्य-घर्षण प्रोटोटाइपिंग, न्यूनतम कोड और स्वायत्त एजेंट चक्र जो विचारों को त्वरित सत्यापित कोड में बदलते हैं।
 - **🏛️ Scale** — साफ़ डिकपल्ड आर्किटेक्चर, स्टेटलेस सेवाएं और बिना एकल विफलता बिंदु (Zero-SPOF) वाले मल्टी-नोड टोपोलॉजी।

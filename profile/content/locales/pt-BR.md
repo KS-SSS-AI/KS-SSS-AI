@@ -26,10 +26,6 @@
   <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
 </p>
 
-<p align="center">
-  <img src="../../assets/locales/pt-BR/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
-</p>
-
 </div>
 
 ---
@@ -38,6 +34,12 @@
 <summary><h2 style="display:inline-block; margin:0;">💡 Sobre e Filosofia de Engenharia</h2></summary>
 
 Eu projeto e construo sistemas de software resilientes, pipelines autônomos inteligentes e interfaces focadas no usuário. Meu foco é o núcleo Triple-S:
+
+<p align="center">
+  <picture>
+    <img src="../../assets/locales/pt-BR/motion/typing.gif" alt="Animação de digitação: Sistemas Resilientes, Pipelines Autônomos, Velocidade · Escala · Segurança" width="100%" />
+  </picture>
+</p>
 
 - **⚡ Speed** — Prototipagem ágil, paradigmas de código mínimo e loops de agentes que convertem intenções em código validado.
 - **🏛️ Scale** — Arquiteturas desacopladas limpas, serviços sem estado e topologias multi-nó sem ponto único de falha (Zero-SPOF).

@@ -26,10 +26,6 @@
   <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
 </p>
 
-<p align="center">
-  <img src="../../assets/locales/ru/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
-</p>
-
 </div>
 
 ---
@@ -38,6 +34,12 @@
 <summary><h2 style="display:inline-block; margin:0;">💡 Обо мне и принципы разработки</h2></summary>
 
 Я проектирую и создаю надежные программные системы, интеллектуальные автономные конвейеры и удобные интерфейсы. В основе лежит принцип Triple-S:
+
+<p align="center">
+  <picture>
+    <img src="../../assets/locales/ru/motion/typing.gif" alt="Анимация набора: Отказоустойчивые системы, Автономные пайплайны, Скорость · Масштаб · Безопасность" width="100%" />
+  </picture>
+</p>
 
 - **⚡ Speed** — Быстрое прототипирование, минимализм кода и автономные агенты, мгновенно переводящие замысел в готовый результат.
 - **🏛️ Scale** — Чистая декомпозиция, сервисы без сохранения состояния и многоузловые топологии без единой точки отказа (Zero-SPOF).

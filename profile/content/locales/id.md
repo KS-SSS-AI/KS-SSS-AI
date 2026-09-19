@@ -26,10 +26,6 @@
   <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
 </p>
 
-<p align="center">
-  <img src="../../assets/locales/id/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
-</p>
-
 </div>
 
 ---
@@ -38,6 +34,12 @@
 <summary><h2 style="display:inline-block; margin:0;">💡 Tentang &amp; Filosofi Rekayasa</h2></summary>
 
 Saya merancang dan membangun sistem perangkat lunak yang tangguh, alur kerja otonom cerdas, dan antarmuka ramah pengguna. Pendekatan saya berpusat pada inti Triple-S:
+
+<p align="center">
+  <picture>
+    <img src="../../assets/locales/id/motion/typing.gif" alt="Animasi pengetikan: Sistem Tangguh, Pipeline Otonom, Kecepatan · Skala · Keamanan" width="100%" />
+  </picture>
+</p>
 
 - **⚡ Speed** — Prototyping tanpa hambatan, paradigma kode minimal, dan loop agen otonom untuk merealisasikan ide dengan cepat.
 - **🏛️ Scale** — Arsitektur terpisah yang bersih, layanan tanpa status, dan topologi multi-node tanpa titik kegagalan tunggal (Zero-SPOF).

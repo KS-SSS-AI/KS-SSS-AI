@@ -26,10 +26,6 @@
   <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
 </p>
 
-<p align="center">
-  <img src="../../assets/locales/zh-CN/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
-</p>
-
 </div>
 
 ---
@@ -38,6 +34,12 @@
 <summary><h2 style="display:inline-block; margin:0;">💡 核心理念与工程哲学</h2></summary>
 
 我设计并构建高韧性软件系统、智能自动化工作流与以用户为中心的高性能交互界面。以 Triple-S 为核心：
+
+<p align="center">
+  <picture>
+    <img src="../../assets/locales/zh-CN/motion/typing.gif" alt="打字动画：高可用弹性系统、自主自动化流水线、速度 · 扩展 · 安全" width="100%" />
+  </picture>
+</p>
 
 - **⚡ Speed** — 零阻力原型设计与最小代码原则，将工程意图即时转化为经过验证的交付物。
 - **🏛️ Scale** — 解耦架构、无状态服务与无单点故障（Zero-SPOF）的多节点分布式拓扑。

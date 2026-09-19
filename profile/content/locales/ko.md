@@ -26,10 +26,6 @@
   <img src="../../assets/badges/badge-stack.svg" alt="Stack" />
 </p>
 
-<p align="center">
-  <img src="../../assets/locales/ko/identity/typing.svg" alt="Autonomous Terminal Session" width="98%" />
-</p>
-
 </div>
 
 ---
@@ -38,6 +34,12 @@
 <summary><h2 style="display:inline-block; margin:0;">💡 핵심 철학 및 엔지니어링 지향점</h2></summary>
 
 견고한 소프트웨어 시스템, 지능형 자율 파이프라인 및 직관적인 인터페이스를 설계합니다. Triple-S 핵심 가치를 지향합니다:
+
+<p align="center">
+  <picture>
+    <img src="../../assets/locales/ko/motion/typing.gif" alt="타이핑 효과: 회복탄력적 시스템, 자율형 파이프라인, 속도 · 확장성 · 보안" width="100%" />
+  </picture>
+</p>
 
 - **⚡ Speed** — 군더더기 없는 최소 코드와 즉각적인 바이브 코딩으로 의도를 검증된 산출물로 신속히 변환합니다.
 - **🏛️ Scale** — 클린 디커플링 아키텍처, 무상태 서비스, 단일장애점(Zero-SPOF) 없는 분산 토폴로지를 구축합니다.
