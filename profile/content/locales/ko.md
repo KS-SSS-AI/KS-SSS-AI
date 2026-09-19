@@ -15,6 +15,26 @@
 
 ---
 
+### ⚡ 기술 스택 매트릭스 (Technology Stack)
+
+<p align="center">
+  <img src="../../assets/visuals/technology-stack.svg" width="100%" alt="기술 스택 매트릭스" />
+</p>
+
+---
+
+### 📊 아키텍처 대시보드 및 파이프라인 (System Topology)
+
+<p align="center">
+  <img src="../../assets/visuals/architecture-metrics.svg" width="100%" alt="아키텍처 대시보드" />
+</p>
+
+<p align="center">
+  <img src="../../assets/visuals/workflow-pipeline.svg" width="100%" alt="자율 바이브 코딩 파이프라인" />
+</p>
+
+---
+
 ### 🚀 핵심 전문 영역 (Key Focus)
 
 1. **자율 에이전트 & 바이브 코딩 파이프라인 (Autonomous Workflows)**
