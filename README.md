@@ -34,7 +34,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><h2 style="display:inline-block; margin:0;">💡 About &amp; Engineering Ethos</h2></summary>
 
 I design and build resilient software systems, intelligent autonomous pipelines, and user-centric interfaces. My approach centers on the **Triple-S Core**:
@@ -51,7 +51,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 
 ---
 
-<details open>
+<details>
 <summary><h2 style="display:inline-block; margin:0;">🚀 Featured Capabilities &amp; Architectures</h2></summary>
 
 <table>
@@ -81,7 +81,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 
 ---
 
-<details open>
+<details>
 <summary><h2 style="display:inline-block; margin:0;">⚡ Technology Stack &amp; Tooling</h2></summary>
 
 <br />
@@ -96,7 +96,7 @@ I design and build resilient software systems, intelligent autonomous pipelines,
 
 ---
 
-<details open>
+<details>
 <summary><h2 style="display:inline-block; margin:0;">📊 Architecture Dashboard &amp; Delivery Metrics</h2></summary>
 
 <br />
