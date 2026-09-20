@@ -91,6 +91,8 @@ flowchart TD
   - `.\ghm use <account>`: 활성 계정 즉시 전환 및 Git 환경 설정 동기화
   - `.\ghm create-repo <name> [--private]`: 계정 권한 기반 저장소 원격 생성
   - `.\ghm push`: 해당 계정의 격리된 토큰 기반 원격 푸시
+  - `.\ghm releases <repo>`: 해당 계정 저장소의 공식 릴리즈 목록 조회
+  - `.\ghm release <repo> <tag> <title> [options]`: GitHub Releases 원격 배포 생성
 - **429 레이트 리밋 페일오버**: 특정 계정의 GitHub API 요청 쿼터가 소진(HTTP 429)되었을 때 대기 계정으로 자동 페일오버를 수행하여 무중단 연속 작업을 보장합니다.
 - **시크릿 위생 (Secret Hygiene)**: 영구적인 평문 키 노출을 차단하고 로컬 `.env` 및 DPAPI 레벨에서 자격증명을 철저히 캡슐화합니다.
 
